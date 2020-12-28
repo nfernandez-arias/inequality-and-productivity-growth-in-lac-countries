@@ -1,0 +1,4055 @@
+Dataset: Income Distribution Database			
+Measure			Gini (disposable income, post taxes and transfers)
+Age group			Total population
+Country	Year	Methodology	0-1 scale
+Australia	1974	New income definition since 2012	..
+Australia	1974	Income definition until 2011	..
+Australia	1975	New income definition since 2012	..
+Australia	1975	Income definition until 2011	..
+Australia	1976	New income definition since 2012	..
+Australia	1976	Income definition until 2011	..
+Australia	1977	New income definition since 2012	..
+Australia	1977	Income definition until 2011	..
+Australia	1978	New income definition since 2012	..
+Australia	1978	Income definition until 2011	..
+Australia	1979	New income definition since 2012	..
+Australia	1979	Income definition until 2011	..
+Australia	1980	New income definition since 2012	..
+Australia	1980	Income definition until 2011	..
+Australia	1981	New income definition since 2012	..
+Australia	1981	Income definition until 2011	..
+Australia	1982	New income definition since 2012	..
+Australia	1982	Income definition until 2011	..
+Australia	1983	New income definition since 2012	..
+Australia	1983	Income definition until 2011	..
+Australia	1984	New income definition since 2012	..
+Australia	1984	Income definition until 2011	..
+Australia	1985	New income definition since 2012	..
+Australia	1985	Income definition until 2011	..
+Australia	1986	New income definition since 2012	..
+Australia	1986	Income definition until 2011	..
+Australia	1987	New income definition since 2012	..
+Australia	1987	Income definition until 2011	..
+Australia	1988	New income definition since 2012	..
+Australia	1988	Income definition until 2011	..
+Australia	1989	New income definition since 2012	..
+Australia	1989	Income definition until 2011	..
+Australia	1990	New income definition since 2012	..
+Australia	1990	Income definition until 2011	..
+Australia	1991	New income definition since 2012	..
+Australia	1991	Income definition until 2011	..
+Australia	1992	New income definition since 2012	..
+Australia	1992	Income definition until 2011	..
+Australia	1993	New income definition since 2012	..
+Australia	1993	Income definition until 2011	..
+Australia	1994	New income definition since 2012	..
+Australia	1994	Income definition until 2011	..
+Australia	1995	New income definition since 2012	..
+Australia	1995	Income definition until 2011	0.309
+Australia	1996	New income definition since 2012	..
+Australia	1996	Income definition until 2011	..
+Australia	1997	New income definition since 2012	..
+Australia	1997	Income definition until 2011	..
+Australia	1998	New income definition since 2012	..
+Australia	1998	Income definition until 2011	..
+Australia	1999	New income definition since 2012	..
+Australia	1999	Income definition until 2011	..
+Australia	2000	New income definition since 2012	..
+Australia	2000	Income definition until 2011	0.317
+Australia	2001	New income definition since 2012	..
+Australia	2001	Income definition until 2011	..
+Australia	2002	New income definition since 2012	..
+Australia	2002	Income definition until 2011	..
+Australia	2003	New income definition since 2012	..
+Australia	2003	Income definition until 2011	..
+Australia	2004	New income definition since 2012	..
+Australia	2004	Income definition until 2011	0.315
+Australia	2005	New income definition since 2012	..
+Australia	2005	Income definition until 2011	..
+Australia	2006	New income definition since 2012	..
+Australia	2006	Income definition until 2011	..
+Australia	2007	New income definition since 2012	..
+Australia	2007	Income definition until 2011	..
+Australia	2008	New income definition since 2012	..
+Australia	2008	Income definition until 2011	0.336
+Australia	2009	New income definition since 2012	..
+Australia	2009	Income definition until 2011	..
+Australia	2010	New income definition since 2012	..
+Australia	2010	Income definition until 2011	0.334
+Australia	2011	New income definition since 2012	..
+Australia	2011	Income definition until 2011	..
+Australia	2012	New income definition since 2012	0.326
+Australia	2012	Income definition until 2011	0.324
+Australia	2013	New income definition since 2012	..
+Australia	2013	Income definition until 2011	..
+Australia	2014	New income definition since 2012	0.337
+Australia	2014	Income definition until 2011	..
+Australia	2015	New income definition since 2012	..
+Australia	2015	Income definition until 2011	..
+Australia	2016	New income definition since 2012	0.33
+Australia	2016	Income definition until 2011	..
+Australia	2017	New income definition since 2012	..
+Australia	2017	Income definition until 2011	..
+Australia	2018	New income definition since 2012	0.325
+Australia	2018	Income definition until 2011	..
+Australia	2019	New income definition since 2012	..
+Australia	2019	Income definition until 2011	..
+Austria	1974	New income definition since 2012	..
+Austria	1974	Income definition until 2011	..
+Austria	1975	New income definition since 2012	..
+Austria	1975	Income definition until 2011	..
+Austria	1976	New income definition since 2012	..
+Austria	1976	Income definition until 2011	..
+Austria	1977	New income definition since 2012	..
+Austria	1977	Income definition until 2011	..
+Austria	1978	New income definition since 2012	..
+Austria	1978	Income definition until 2011	..
+Austria	1979	New income definition since 2012	..
+Austria	1979	Income definition until 2011	..
+Austria	1980	New income definition since 2012	..
+Austria	1980	Income definition until 2011	..
+Austria	1981	New income definition since 2012	..
+Austria	1981	Income definition until 2011	..
+Austria	1982	New income definition since 2012	..
+Austria	1982	Income definition until 2011	..
+Austria	1983	New income definition since 2012	..
+Austria	1983	Income definition until 2011	..
+Austria	1984	New income definition since 2012	..
+Austria	1984	Income definition until 2011	..
+Austria	1985	New income definition since 2012	..
+Austria	1985	Income definition until 2011	..
+Austria	1986	New income definition since 2012	..
+Austria	1986	Income definition until 2011	..
+Austria	1987	New income definition since 2012	..
+Austria	1987	Income definition until 2011	..
+Austria	1988	New income definition since 2012	..
+Austria	1988	Income definition until 2011	..
+Austria	1989	New income definition since 2012	..
+Austria	1989	Income definition until 2011	..
+Austria	1990	New income definition since 2012	..
+Austria	1990	Income definition until 2011	..
+Austria	1991	New income definition since 2012	..
+Austria	1991	Income definition until 2011	..
+Austria	1992	New income definition since 2012	..
+Austria	1992	Income definition until 2011	..
+Austria	1993	New income definition since 2012	..
+Austria	1993	Income definition until 2011	..
+Austria	1994	New income definition since 2012	..
+Austria	1994	Income definition until 2011	..
+Austria	1995	New income definition since 2012	..
+Austria	1995	Income definition until 2011	..
+Austria	1996	New income definition since 2012	..
+Austria	1996	Income definition until 2011	..
+Austria	1997	New income definition since 2012	..
+Austria	1997	Income definition until 2011	..
+Austria	1998	New income definition since 2012	..
+Austria	1998	Income definition until 2011	..
+Austria	1999	New income definition since 2012	..
+Austria	1999	Income definition until 2011	..
+Austria	2000	New income definition since 2012	..
+Austria	2000	Income definition until 2011	..
+Austria	2001	New income definition since 2012	..
+Austria	2001	Income definition until 2011	..
+Austria	2002	New income definition since 2012	..
+Austria	2002	Income definition until 2011	..
+Austria	2003	New income definition since 2012	..
+Austria		Income definition until 2011	..
+Austria	2004	New income definition since 2012	..
+Austria		Income definition until 2011	..
+Austria	2005	New income definition since 2012	..
+Austria		Income definition until 2011	..
+Austria	2006	New income definition since 2012	..
+Austria		Income definition until 2011	..
+Austria	2007	New income definition since 2012	0.284
+Austria		Income definition until 2011	..
+Austria	2008	New income definition since 2012	0.28
+Austria		Income definition until 2011	..
+Austria	2009	New income definition since 2012	0.289
+Austria		Income definition until 2011	..
+Austria	2010	New income definition since 2012	0.28
+Austria		Income definition until 2011	..
+Austria	2011	New income definition since 2012	0.281
+Austria		Income definition until 2011	..
+Austria	2012	New income definition since 2012	0.276
+Austria		Income definition until 2011	..
+Austria	2013	New income definition since 2012	0.28
+Austria		Income definition until 2011	..
+Austria	2014	New income definition since 2012	0.274
+Austria		Income definition until 2011	..
+Austria	2015	New income definition since 2012	0.275
+Austria		Income definition until 2011	..
+Austria	2016	New income definition since 2012	0.284
+Austria		Income definition until 2011	..
+Austria	2017	New income definition since 2012	0.275
+Austria		Income definition until 2011	..
+Austria	2018	New income definition since 2012	..
+Austria		Income definition until 2011	..
+Austria	2019	New income definition since 2012	..
+Austria		Income definition until 2011	..
+Belgium	1974	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1975	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1976	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1977	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1978	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1979	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1980	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1981	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1982	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1983	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1984	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1985	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1986	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1987	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1988	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1989	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1990	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1991	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1992	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1993	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1994	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1995	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1996	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1997	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1998	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	1999	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	2000	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	2001	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	2002	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	2003	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	2004	New income definition since 2012	0.287
+Belgium		Income definition until 2011	0.287
+Belgium	2005	New income definition since 2012	0.277
+Belgium		Income definition until 2011	0.277
+Belgium	2006	New income definition since 2012	0.268
+Belgium		Income definition until 2011	0.264
+Belgium	2007	New income definition since 2012	0.277
+Belgium		Income definition until 2011	0.274
+Belgium	2008	New income definition since 2012	0.266
+Belgium		Income definition until 2011	0.262
+Belgium	2009	New income definition since 2012	0.272
+Belgium		Income definition until 2011	0.269
+Belgium	2010	New income definition since 2012	0.267
+Belgium		Income definition until 2011	0.264
+Belgium	2011	New income definition since 2012	0.27
+Belgium		Income definition until 2011	0.266
+Belgium	2012	New income definition since 2012	0.265
+Belgium		Income definition until 2011	0.262
+Belgium	2013	New income definition since 2012	0.265
+Belgium		Income definition until 2011	0.261
+Belgium	2014	New income definition since 2012	0.267
+Belgium		Income definition until 2011	..
+Belgium	2015	New income definition since 2012	0.268
+Belgium		Income definition until 2011	..
+Belgium	2016	New income definition since 2012	0.266
+Belgium		Income definition until 2011	..
+Belgium	2017	New income definition since 2012	0.263
+Belgium		Income definition until 2011	..
+Belgium	2018	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Belgium	2019	New income definition since 2012	..
+Belgium		Income definition until 2011	..
+Canada	1974	New income definition since 2012	..
+Canada	1974	Income definition until 2011	..
+Canada	1975	New income definition since 2012	..
+Canada	1975	Income definition until 2011	..
+Canada	1976	New income definition since 2012	0.303
+Canada	1976	Income definition until 2011	0.304
+Canada	1977	New income definition since 2012	0.289
+Canada		Income definition until 2011	0.288
+Canada	1978	New income definition since 2012	0.294
+Canada		Income definition until 2011	0.293
+Canada	1979	New income definition since 2012	0.289
+Canada		Income definition until 2011	0.289
+Canada	1980	New income definition since 2012	0.289
+Canada		Income definition until 2011	0.289
+Canada	1981	New income definition since 2012	0.288
+Canada		Income definition until 2011	0.287
+Canada	1982	New income definition since 2012	0.292
+Canada		Income definition until 2011	0.291
+Canada	1983	New income definition since 2012	0.3
+Canada		Income definition until 2011	0.299
+Canada	1984	New income definition since 2012	0.297
+Canada		Income definition until 2011	0.296
+Canada	1985	New income definition since 2012	0.294
+Canada		Income definition until 2011	0.293
+Canada	1986	New income definition since 2012	0.293
+Canada		Income definition until 2011	0.292
+Canada	1987	New income definition since 2012	0.291
+Canada		Income definition until 2011	0.289
+Canada	1988	New income definition since 2012	0.286
+Canada		Income definition until 2011	0.284
+Canada	1989	New income definition since 2012	0.284
+Canada		Income definition until 2011	0.282
+Canada	1990	New income definition since 2012	0.289
+Canada		Income definition until 2011	0.287
+Canada	1991	New income definition since 2012	0.296
+Canada		Income definition until 2011	0.294
+Canada	1992	New income definition since 2012	0.296
+Canada		Income definition until 2011	0.292
+Canada	1993	New income definition since 2012	0.29
+Canada		Income definition until 2011	0.286
+Canada	1994	New income definition since 2012	0.291
+Canada		Income definition until 2011	0.287
+Canada	1995	New income definition since 2012	0.293
+Canada		Income definition until 2011	0.289
+Canada	1996	New income definition since 2012	0.301
+Canada		Income definition until 2011	0.297
+Canada	1997	New income definition since 2012	0.304
+Canada		Income definition until 2011	0.301
+Canada	1998	New income definition since 2012	0.31
+Canada		Income definition until 2011	0.307
+Canada	1999	New income definition since 2012	0.308
+Canada		Income definition until 2011	0.307
+Canada	2000	New income definition since 2012	0.315
+Canada		Income definition until 2011	0.315
+Canada	2001	New income definition since 2012	0.317
+Canada		Income definition until 2011	0.317
+Canada	2002	New income definition since 2012	0.317
+Canada		Income definition until 2011	0.318
+Canada	2003	New income definition since 2012	0.315
+Canada		Income definition until 2011	0.316
+Canada	2004	New income definition since 2012	0.321
+Canada		Income definition until 2011	0.322
+Canada	2005	New income definition since 2012	0.315
+Canada		Income definition until 2011	0.317
+Canada	2006	New income definition since 2012	0.316
+Canada		Income definition until 2011	0.317
+Canada	2007	New income definition since 2012	0.317
+Canada		Income definition until 2011	0.318
+Canada	2008	New income definition since 2012	0.315
+Canada		Income definition until 2011	0.321
+Canada	2009	New income definition since 2012	0.316
+Canada		Income definition until 2011	0.32
+Canada	2010	New income definition since 2012	0.316
+Canada		Income definition until 2011	0.319
+Canada	2011	New income definition since 2012	0.313
+Canada		Income definition until 2011	0.316
+Canada	2012	New income definition since 2012	0.317
+Canada		Income definition until 2011	..
+Canada	2013	New income definition since 2012	0.32
+Canada		Income definition until 2011	..
+Canada	2014	New income definition since 2012	0.313
+Canada		Income definition until 2011	..
+Canada	2015	New income definition since 2012	0.318
+Canada		Income definition until 2011	..
+Canada	2016	New income definition since 2012	0.307
+Canada		Income definition until 2011	..
+Canada	2017	New income definition since 2012	0.31
+Canada		Income definition until 2011	..
+Canada	2018	New income definition since 2012	..
+Canada		Income definition until 2011	..
+Canada	2019	New income definition since 2012	..
+Canada		Income definition until 2011	..
+Chile	1974	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1975	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1976	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1977	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1978	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1979	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1980	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1981	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1982	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1983	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1984	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1985	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1986	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1987	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1988	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1989	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1990	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1991	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1992	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1993	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1994	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1995	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1996	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1997	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1998	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	1999	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2000	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2001	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2002	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2003	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2004	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2005	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2006	New income definition since 2012	..
+Chile		Income definition until 2011	0.511
+Chile	2007	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2008	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2009	New income definition since 2012	0.48
+Chile		Income definition until 2011	0.51
+Chile	2010	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2011	New income definition since 2012	0.471
+Chile		Income definition until 2011	0.503
+Chile	2012	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2013	New income definition since 2012	0.465
+Chile		Income definition until 2011	..
+Chile	2014	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2015	New income definition since 2012	0.454
+Chile		Income definition until 2011	..
+Chile	2016	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2017	New income definition since 2012	0.46
+Chile		Income definition until 2011	..
+Chile	2018	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Chile	2019	New income definition since 2012	..
+Chile		Income definition until 2011	..
+Czech Republic	1974	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1975	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1976	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1977	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1978	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1979	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1980	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1981	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1982	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1983	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1984	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1985	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1986	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1987	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1988	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1989	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1990	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1991	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1992	New income definition since 2012	..
+Czech Republic		Income definition until 2011	0.232
+Czech Republic	1993	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1994	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1995	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1996	New income definition since 2012	..
+Czech Republic		Income definition until 2011	0.257
+Czech Republic	1997	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1998	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	1999	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	2000	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	2001	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	2002	New income definition since 2012	..
+Czech Republic		Income definition until 2011	0.26
+Czech Republic	2003	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	2004	New income definition since 2012	0.267
+Czech Republic		Income definition until 2011	0.269
+Czech Republic	2005	New income definition since 2012	0.261
+Czech Republic		Income definition until 2011	0.261
+Czech Republic	2006	New income definition since 2012	0.26
+Czech Republic		Income definition until 2011	0.261
+Czech Republic	2007	New income definition since 2012	0.256
+Czech Republic		Income definition until 2011	0.257
+Czech Republic	2008	New income definition since 2012	0.259
+Czech Republic		Income definition until 2011	0.26
+Czech Republic	2009	New income definition since 2012	0.257
+Czech Republic		Income definition until 2011	0.258
+Czech Republic	2010	New income definition since 2012	0.26
+Czech Republic		Income definition until 2011	0.258
+Czech Republic	2011	New income definition since 2012	0.257
+Czech Republic		Income definition until 2011	0.256
+Czech Republic	2012	New income definition since 2012	0.254
+Czech Republic		Income definition until 2011	0.252
+Czech Republic	2013	New income definition since 2012	0.259
+Czech Republic		Income definition until 2011	0.259
+Czech Republic	2014	New income definition since 2012	0.257
+Czech Republic		Income definition until 2011	..
+Czech Republic	2015	New income definition since 2012	0.258
+Czech Republic		Income definition until 2011	..
+Czech Republic	2016	New income definition since 2012	0.253
+Czech Republic		Income definition until 2011	..
+Czech Republic	2017	New income definition since 2012	0.249
+Czech Republic		Income definition until 2011	..
+Czech Republic	2018	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Czech Republic	2019	New income definition since 2012	..
+Czech Republic		Income definition until 2011	..
+Denmark	1974	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1975	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1976	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1977	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1978	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1979	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1980	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1981	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1982	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1983	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1984	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	1985	New income definition since 2012	..
+Denmark		Income definition until 2011	0.221
+Denmark	1986	New income definition since 2012	..
+Denmark		Income definition until 2011	0.224
+Denmark	1987	New income definition since 2012	..
+Denmark		Income definition until 2011	0.225
+Denmark	1988	New income definition since 2012	..
+Denmark		Income definition until 2011	0.224
+Denmark	1989	New income definition since 2012	..
+Denmark		Income definition until 2011	0.22
+Denmark	1990	New income definition since 2012	..
+Denmark		Income definition until 2011	0.226
+Denmark	1991	New income definition since 2012	..
+Denmark		Income definition until 2011	0.222
+Denmark	1992	New income definition since 2012	..
+Denmark		Income definition until 2011	0.222
+Denmark	1993	New income definition since 2012	..
+Denmark		Income definition until 2011	0.223
+Denmark	1994	New income definition since 2012	..
+Denmark		Income definition until 2011	0.216
+Denmark	1995	New income definition since 2012	..
+Denmark		Income definition until 2011	0.215
+Denmark	1996	New income definition since 2012	..
+Denmark		Income definition until 2011	0.216
+Denmark	1997	New income definition since 2012	..
+Denmark		Income definition until 2011	0.224
+Denmark	1998	New income definition since 2012	..
+Denmark		Income definition until 2011	0.224
+Denmark	1999	New income definition since 2012	..
+Denmark		Income definition until 2011	0.228
+Denmark	2000	New income definition since 2012	..
+Denmark		Income definition until 2011	0.227
+Denmark	2001	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	2002	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	2003	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	2004	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	2005	New income definition since 2012	..
+Denmark		Income definition until 2011	0.232
+Denmark	2006	New income definition since 2012	..
+Denmark		Income definition until 2011	0.239
+Denmark	2007	New income definition since 2012	..
+Denmark		Income definition until 2011	0.246
+Denmark	2008	New income definition since 2012	..
+Denmark		Income definition until 2011	0.242
+Denmark	2009	New income definition since 2012	..
+Denmark		Income definition until 2011	0.238
+Denmark	2010	New income definition since 2012	..
+Denmark		Income definition until 2011	0.252
+Denmark	2011	New income definition since 2012	0.251
+Denmark		Income definition until 2011	0.253
+Denmark	2012	New income definition since 2012	0.249
+Denmark		Income definition until 2011	..
+Denmark	2013	New income definition since 2012	0.254
+Denmark		Income definition until 2011	..
+Denmark	2014	New income definition since 2012	0.256
+Denmark		Income definition until 2011	..
+Denmark	2015	New income definition since 2012	0.263
+Denmark		Income definition until 2011	..
+Denmark	2016	New income definition since 2012	0.261
+Denmark		Income definition until 2011	..
+Denmark	2017	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	2018	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Denmark	2019	New income definition since 2012	..
+Denmark		Income definition until 2011	..
+Estonia	1974	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1975	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1976	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1977	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1978	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1979	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1980	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1981	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1982	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1983	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1984	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1985	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1986	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1987	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1988	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1989	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1990	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1991	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1992	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1993	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1994	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1995	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1996	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1997	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1998	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	1999	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	2000	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	2001	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	2002	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	2003	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	2004	New income definition since 2012	..
+Estonia		Income definition until 2011	0.346
+Estonia	2005	New income definition since 2012	..
+Estonia		Income definition until 2011	0.335
+Estonia	2006	New income definition since 2012	..
+Estonia		Income definition until 2011	0.338
+Estonia	2007	New income definition since 2012	..
+Estonia		Income definition until 2011	0.312
+Estonia	2008	New income definition since 2012	..
+Estonia		Income definition until 2011	0.313
+Estonia	2009	New income definition since 2012	..
+Estonia		Income definition until 2011	0.309
+Estonia	2010	New income definition since 2012	..
+Estonia		Income definition until 2011	0.317
+Estonia	2011	New income definition since 2012	..
+Estonia		Income definition until 2011	0.323
+Estonia	2012	New income definition since 2012	..
+Estonia		Income definition until 2011	0.326
+Estonia	2013	New income definition since 2012	0.356
+Estonia		Income definition until 2011	0.355
+Estonia	2014	New income definition since 2012	0.346
+Estonia		Income definition until 2011	..
+Estonia	2015	New income definition since 2012	0.33
+Estonia		Income definition until 2011	..
+Estonia	2016	New income definition since 2012	0.314
+Estonia		Income definition until 2011	..
+Estonia	2017	New income definition since 2012	0.309
+Estonia		Income definition until 2011	..
+Estonia	2018	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Estonia	2019	New income definition since 2012	..
+Estonia		Income definition until 2011	..
+Finland	1974	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1975	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1976	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1977	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1978	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1979	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1980	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1981	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1982	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1983	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1984	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1985	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	1986	New income definition since 2012	..
+Finland		Income definition until 2011	0.209
+Finland	1987	New income definition since 2012	0.209
+Finland		Income definition until 2011	0.209
+Finland	1988	New income definition since 2012	0.213
+Finland		Income definition until 2011	0.214
+Finland	1989	New income definition since 2012	0.217
+Finland		Income definition until 2011	0.217
+Finland	1990	New income definition since 2012	0.215
+Finland		Income definition until 2011	0.215
+Finland	1991	New income definition since 2012	0.212
+Finland		Income definition until 2011	0.213
+Finland	1992	New income definition since 2012	0.211
+Finland		Income definition until 2011	0.212
+Finland	1993	New income definition since 2012	0.214
+Finland		Income definition until 2011	0.215
+Finland	1994	New income definition since 2012	0.215
+Finland		Income definition until 2011	0.217
+Finland	1995	New income definition since 2012	0.22
+Finland		Income definition until 2011	0.222
+Finland	1996	New income definition since 2012	0.224
+Finland		Income definition until 2011	0.226
+Finland	1997	New income definition since 2012	0.235
+Finland		Income definition until 2011	0.237
+Finland	1998	New income definition since 2012	0.243
+Finland		Income definition until 2011	0.244
+Finland	1999	New income definition since 2012	0.25
+Finland		Income definition until 2011	0.251
+Finland	2000	New income definition since 2012	0.254
+Finland		Income definition until 2011	0.255
+Finland	2001	New income definition since 2012	0.262
+Finland		Income definition until 2011	0.261
+Finland	2002	New income definition since 2012	0.258
+Finland		Income definition until 2011	0.259
+Finland	2003	New income definition since 2012	0.261
+Finland		Income definition until 2011	0.263
+Finland	2004	New income definition since 2012	0.266
+Finland		Income definition until 2011	0.267
+Finland	2005	New income definition since 2012	0.265
+Finland		Income definition until 2011	0.266
+Finland	2006	New income definition since 2012	0.268
+Finland		Income definition until 2011	0.268
+Finland	2007	New income definition since 2012	0.269
+Finland		Income definition until 2011	0.27
+Finland	2008	New income definition since 2012	0.264
+Finland		Income definition until 2011	0.266
+Finland	2009	New income definition since 2012	0.259
+Finland		Income definition until 2011	0.26
+Finland	2010	New income definition since 2012	0.264
+Finland		Income definition until 2011	0.265
+Finland	2011	New income definition since 2012	0.264
+Finland		Income definition until 2011	0.265
+Finland	2012	New income definition since 2012	0.26
+Finland		Income definition until 2011	0.261
+Finland	2013	New income definition since 2012	0.262
+Finland		Income definition until 2011	..
+Finland	2014	New income definition since 2012	0.257
+Finland		Income definition until 2011	..
+Finland	2015	New income definition since 2012	0.26
+Finland		Income definition until 2011	..
+Finland	2016	New income definition since 2012	0.259
+Finland		Income definition until 2011	..
+Finland	2017	New income definition since 2012	0.266
+Finland		Income definition until 2011	..
+Finland	2018	New income definition since 2012	..
+Finland		Income definition until 2011	..
+Finland	2019	New income definition since 2012	..
+Finland		Income definition until 2011	..
+France	1974	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1975	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1976	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1977	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1978	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1979	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1980	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1981	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1982	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1983	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1984	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1985	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1986	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1987	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1988	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1989	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1990	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1991	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1992	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1993	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1994	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1995	New income definition since 2012	..
+France		Income definition until 2011	..
+France	1996	New income definition since 2012	..
+France		Income definition until 2011	0.277
+France	1997	New income definition since 2012	..
+France		Income definition until 2011	0.278
+France	1998	New income definition since 2012	..
+France		Income definition until 2011	0.276
+France	1999	New income definition since 2012	..
+France		Income definition until 2011	0.284
+France	2000	New income definition since 2012	..
+France		Income definition until 2011	0.287
+France	2001	New income definition since 2012	..
+France		Income definition until 2011	0.287
+France	2002	New income definition since 2012	..
+France		Income definition until 2011	0.284
+France	2003	New income definition since 2012	..
+France		Income definition until 2011	0.282
+France	2004	New income definition since 2012	..
+France		Income definition until 2011	0.283
+France	2005	New income definition since 2012	..
+France		Income definition until 2011	0.288
+France	2006	New income definition since 2012	..
+France		Income definition until 2011	0.293
+France	2007	New income definition since 2012	..
+France		Income definition until 2011	0.292
+France	2008	New income definition since 2012	..
+France		Income definition until 2011	0.293
+France	2009	New income definition since 2012	..
+France		Income definition until 2011	0.293
+France	2010	New income definition since 2012	..
+France		Income definition until 2011	0.303
+France	2011	New income definition since 2012	..
+France		Income definition until 2011	0.309
+France	2012	New income definition since 2012	0.305
+France		Income definition until 2011	..
+France	2013	New income definition since 2012	0.291
+France		Income definition until 2011	..
+France	2014	New income definition since 2012	0.293
+France		Income definition until 2011	..
+France	2015	New income definition since 2012	0.295
+France		Income definition until 2011	..
+France	2016	New income definition since 2012	0.291
+France		Income definition until 2011	..
+France	2017	New income definition since 2012	0.292
+France		Income definition until 2011	..
+France	2018	New income definition since 2012	..
+France		Income definition until 2011	..
+France	2019	New income definition since 2012	..
+France		Income definition until 2011	..
+Germany	1974	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1975	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1976	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1977	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1978	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1979	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1980	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1981	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1982	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1983	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1984	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1985	New income definition since 2012	..
+Germany		Income definition until 2011	0.251
+Germany	1986	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1987	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1988	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1989	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1990	New income definition since 2012	..
+Germany		Income definition until 2011	0.256
+Germany	1991	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	1992	New income definition since 2012	..
+Germany		Income definition until 2011	0.263
+Germany	1993	New income definition since 2012	..
+Germany		Income definition until 2011	0.262
+Germany	1994	New income definition since 2012	..
+Germany		Income definition until 2011	0.268
+Germany	1995	New income definition since 2012	..
+Germany		Income definition until 2011	0.266
+Germany	1996	New income definition since 2012	..
+Germany		Income definition until 2011	0.26
+Germany	1997	New income definition since 2012	..
+Germany		Income definition until 2011	0.259
+Germany	1998	New income definition since 2012	..
+Germany		Income definition until 2011	0.259
+Germany	1999	New income definition since 2012	..
+Germany		Income definition until 2011	0.259
+Germany	2000	New income definition since 2012	..
+Germany		Income definition until 2011	0.264
+Germany	2001	New income definition since 2012	..
+Germany		Income definition until 2011	0.27
+Germany	2002	New income definition since 2012	..
+Germany		Income definition until 2011	0.28
+Germany	2003	New income definition since 2012	..
+Germany		Income definition until 2011	0.282
+Germany	2004	New income definition since 2012	..
+Germany		Income definition until 2011	0.285
+Germany	2005	New income definition since 2012	..
+Germany		Income definition until 2011	0.297
+Germany	2006	New income definition since 2012	..
+Germany		Income definition until 2011	0.29
+Germany	2007	New income definition since 2012	..
+Germany		Income definition until 2011	0.295
+Germany	2008	New income definition since 2012	0.285
+Germany		Income definition until 2011	0.287
+Germany	2009	New income definition since 2012	..
+Germany		Income definition until 2011	0.288
+Germany	2010	New income definition since 2012	..
+Germany		Income definition until 2011	0.286
+Germany	2011	New income definition since 2012	0.291
+Germany		Income definition until 2011	0.293
+Germany	2012	New income definition since 2012	0.289
+Germany		Income definition until 2011	..
+Germany	2013	New income definition since 2012	0.292
+Germany		Income definition until 2011	..
+Germany	2014	New income definition since 2012	0.289
+Germany		Income definition until 2011	..
+Germany	2015	New income definition since 2012	0.293
+Germany		Income definition until 2011	..
+Germany	2016	New income definition since 2012	0.294
+Germany		Income definition until 2011	..
+Germany	2017	New income definition since 2012	0.289
+Germany		Income definition until 2011	..
+Germany	2018	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Germany	2019	New income definition since 2012	..
+Germany		Income definition until 2011	..
+Greece	1974	New income definition since 2012	..
+Greece		Income definition until 2011	0.432
+Greece	1975	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1976	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1977	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1978	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1979	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1980	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1981	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1982	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1983	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1984	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1985	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1986	New income definition since 2012	..
+Greece		Income definition until 2011	0.352
+Greece	1987	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1988	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1989	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1990	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1991	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1992	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1993	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1994	New income definition since 2012	..
+Greece		Income definition until 2011	0.352
+Greece	1995	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1996	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1997	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1998	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	1999	New income definition since 2012	..
+Greece		Income definition until 2011	0.361
+Greece	2000	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	2001	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	2002	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	2003	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	2004	New income definition since 2012	0.333
+Greece		Income definition until 2011	0.336
+Greece	2005	New income definition since 2012	0.345
+Greece		Income definition until 2011	0.346
+Greece	2006	New income definition since 2012	0.337
+Greece		Income definition until 2011	0.34
+Greece	2007	New income definition since 2012	0.329
+Greece		Income definition until 2011	..
+Greece	2008	New income definition since 2012	0.328
+Greece		Income definition until 2011	0.33
+Greece	2009	New income definition since 2012	0.33
+Greece		Income definition until 2011	0.331
+Greece	2010	New income definition since 2012	0.336
+Greece		Income definition until 2011	0.337
+Greece	2011	New income definition since 2012	0.333
+Greece		Income definition until 2011	0.335
+Greece	2012	New income definition since 2012	0.338
+Greece		Income definition until 2011	0.34
+Greece	2013	New income definition since 2012	0.342
+Greece		Income definition until 2011	0.343
+Greece	2014	New income definition since 2012	0.339
+Greece		Income definition until 2011	..
+Greece	2015	New income definition since 2012	0.34
+Greece		Income definition until 2011	..
+Greece	2016	New income definition since 2012	0.333
+Greece		Income definition until 2011	..
+Greece	2017	New income definition since 2012	0.319
+Greece		Income definition until 2011	..
+Greece	2018	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Greece	2019	New income definition since 2012	..
+Greece		Income definition until 2011	..
+Hungary	1974	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1975	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1976	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1977	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1978	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1979	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1980	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1981	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1982	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1983	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1984	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1985	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1986	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1987	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1988	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1989	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1990	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	1991	New income definition since 2012	..
+Hungary		Income definition until 2011	0.273
+Hungary	1992	New income definition since 2012	..
+Hungary		Income definition until 2011	0.282
+Hungary	1993	New income definition since 2012	..
+Hungary		Income definition until 2011	0.299
+Hungary	1994	New income definition since 2012	..
+Hungary		Income definition until 2011	0.299
+Hungary	1995	New income definition since 2012	..
+Hungary		Income definition until 2011	0.294
+Hungary	1996	New income definition since 2012	..
+Hungary		Income definition until 2011	0.294
+Hungary	1997	New income definition since 2012	..
+Hungary		Income definition until 2011	0.281
+Hungary	1998	New income definition since 2012	..
+Hungary		Income definition until 2011	0.284
+Hungary	1999	New income definition since 2012	..
+Hungary		Income definition until 2011	0.294
+Hungary	2000	New income definition since 2012	..
+Hungary		Income definition until 2011	0.293
+Hungary	2001	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	2002	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	2003	New income definition since 2012	..
+Hungary		Income definition until 2011	0.303
+Hungary	2004	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	2005	New income definition since 2012	..
+Hungary		Income definition until 2011	0.291
+Hungary	2006	New income definition since 2012	0.264
+Hungary		Income definition until 2011	..
+Hungary	2007	New income definition since 2012	0.257
+Hungary		Income definition until 2011	0.272
+Hungary	2008	New income definition since 2012	0.246
+Hungary		Income definition until 2011	..
+Hungary	2009	New income definition since 2012	0.241
+Hungary		Income definition until 2011	0.272
+Hungary	2010	New income definition since 2012	0.266
+Hungary		Income definition until 2011	..
+Hungary	2011	New income definition since 2012	0.269
+Hungary		Income definition until 2011	..
+Hungary	2012	New income definition since 2012	0.279
+Hungary		Income definition until 2011	0.29
+Hungary	2013	New income definition since 2012	0.286
+Hungary		Income definition until 2011	..
+Hungary	2014	New income definition since 2012	0.281
+Hungary		Income definition until 2011	..
+Hungary	2015	New income definition since 2012	0.284
+Hungary		Income definition until 2011	..
+Hungary	2016	New income definition since 2012	0.28
+Hungary		Income definition until 2011	..
+Hungary	2017	New income definition since 2012	0.289
+Hungary		Income definition until 2011	..
+Hungary	2018	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Hungary	2019	New income definition since 2012	..
+Hungary		Income definition until 2011	..
+Iceland	1974	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1975	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1976	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1977	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1978	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1979	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1980	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1981	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1982	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1983	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1984	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1985	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1986	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1987	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1988	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1989	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1990	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1991	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1992	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1993	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1994	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1995	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1996	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1997	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1998	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	1999	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2000	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2001	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2002	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2003	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2004	New income definition since 2012	0.261
+Iceland		Income definition until 2011	0.261
+Iceland	2005	New income definition since 2012	0.273
+Iceland		Income definition until 2011	0.273
+Iceland	2006	New income definition since 2012	0.289
+Iceland		Income definition until 2011	0.291
+Iceland	2007	New income definition since 2012	0.285
+Iceland		Income definition until 2011	0.283
+Iceland	2008	New income definition since 2012	0.306
+Iceland		Income definition until 2011	0.304
+Iceland	2009	New income definition since 2012	0.266
+Iceland		Income definition until 2011	0.266
+Iceland	2010	New income definition since 2012	0.248
+Iceland		Income definition until 2011	0.245
+Iceland	2011	New income definition since 2012	0.252
+Iceland		Income definition until 2011	0.25
+Iceland	2012	New income definition since 2012	0.252
+Iceland		Income definition until 2011	0.252
+Iceland	2013	New income definition since 2012	0.24
+Iceland		Income definition until 2011	0.24
+Iceland	2014	New income definition since 2012	0.246
+Iceland		Income definition until 2011	..
+Iceland	2015	New income definition since 2012	0.257
+Iceland		Income definition until 2011	..
+Iceland	2016	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2017	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2018	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Iceland	2019	New income definition since 2012	..
+Iceland		Income definition until 2011	..
+Ireland	1974	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1975	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1976	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1977	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1978	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1979	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1980	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1981	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1982	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1983	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1984	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1985	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1986	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1987	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1988	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1989	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1990	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1991	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1992	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1993	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1994	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1995	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1996	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1997	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1998	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	1999	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	2000	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	2001	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	2002	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	2003	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	2004	New income definition since 2012	0.323
+Ireland		Income definition until 2011	0.323
+Ireland	2005	New income definition since 2012	0.324
+Ireland		Income definition until 2011	0.323
+Ireland	2006	New income definition since 2012	0.316
+Ireland		Income definition until 2011	0.315
+Ireland	2007	New income definition since 2012	0.304
+Ireland		Income definition until 2011	0.303
+Ireland	2008	New income definition since 2012	0.295
+Ireland		Income definition until 2011	0.295
+Ireland	2009	New income definition since 2012	0.312
+Ireland		Income definition until 2011	0.312
+Ireland	2010	New income definition since 2012	0.298
+Ireland		Income definition until 2011	0.298
+Ireland	2011	New income definition since 2012	0.307
+Ireland		Income definition until 2011	0.3
+Ireland	2012	New income definition since 2012	0.31
+Ireland		Income definition until 2011	0.302
+Ireland	2013	New income definition since 2012	0.312
+Ireland		Income definition until 2011	0.307
+Ireland	2014	New income definition since 2012	0.298
+Ireland		Income definition until 2011	..
+Ireland	2015	New income definition since 2012	0.298
+Ireland		Income definition until 2011	..
+Ireland	2016	New income definition since 2012	0.309
+Ireland		Income definition until 2011	..
+Ireland	2017	New income definition since 2012	0.295
+Ireland		Income definition until 2011	..
+Ireland	2018	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Ireland	2019	New income definition since 2012	..
+Ireland		Income definition until 2011	..
+Israel	1974	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1975	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1976	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1977	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1978	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1979	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1980	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1981	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1982	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1983	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1984	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1985	New income definition since 2012	..
+Israel		Income definition until 2011	0.326
+Israel	1986	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1987	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1988	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1989	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1990	New income definition since 2012	..
+Israel		Income definition until 2011	0.329
+Israel	1991	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1992	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1993	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1994	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1995	New income definition since 2012	..
+Israel		Income definition until 2011	0.338
+Israel	1996	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1997	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1998	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	1999	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2000	New income definition since 2012	..
+Israel		Income definition until 2011	0.347
+Israel	2001	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2002	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2003	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2004	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2005	New income definition since 2012	..
+Israel		Income definition until 2011	0.378
+Israel	2006	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2007	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Israel	2008	New income definition since 2012	..
+Israel		Income definition until 2011	0.371
+Israel	2009	New income definition since 2012	..
+Israel		Income definition until 2011	0.373
+Israel	2010	New income definition since 2012	..
+Israel		Income definition until 2011	0.376
+Israel	2011	New income definition since 2012	0.371
+Israel		Income definition until 2011	0.377
+Israel	2012	New income definition since 2012	0.371
+Israel		Income definition until 2011	..
+Israel	2013	New income definition since 2012	0.36
+Israel		Income definition until 2011	..
+Israel	2014	New income definition since 2012	0.365
+Israel		Income definition until 2011	..
+Israel	2015	New income definition since 2012	0.36
+Israel		Income definition until 2011	..
+Israel	2016	New income definition since 2012	0.346
+Israel		Income definition until 2011	..
+Israel	2017	New income definition since 2012	0.344
+Israel		Income definition until 2011	..
+Israel	2018	New income definition since 2012	0.348
+Israel		Income definition until 2011	..
+Israel	2019	New income definition since 2012	..
+Israel		Income definition until 2011	..
+Italy	1974	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1975	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1976	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1977	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1978	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1979	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1980	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1981	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1982	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1983	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1984	New income definition since 2012	..
+Italy		Income definition until 2011	0.291
+Italy	1985	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1986	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1987	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1988	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1989	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1990	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1991	New income definition since 2012	..
+Italy		Income definition until 2011	0.279
+Italy	1992	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1993	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1994	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1995	New income definition since 2012	..
+Italy		Income definition until 2011	0.327
+Italy	1996	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1997	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1998	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	1999	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	2000	New income definition since 2012	..
+Italy		Income definition until 2011	0.323
+Italy	2001	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	2002	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	2003	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	2004	New income definition since 2012	0.331
+Italy		Income definition until 2011	0.331
+Italy	2005	New income definition since 2012	0.324
+Italy		Income definition until 2011	..
+Italy	2006	New income definition since 2012	0.324
+Italy		Income definition until 2011	..
+Italy	2007	New income definition since 2012	0.313
+Italy		Income definition until 2011	..
+Italy	2008	New income definition since 2012	0.317
+Italy		Income definition until 2011	0.317
+Italy	2009	New income definition since 2012	0.315
+Italy		Income definition until 2011	0.315
+Italy	2010	New income definition since 2012	0.327
+Italy		Income definition until 2011	0.321
+Italy	2011	New income definition since 2012	0.327
+Italy		Income definition until 2011	0.326
+Italy	2012	New income definition since 2012	0.33
+Italy		Income definition until 2011	0.329
+Italy	2013	New income definition since 2012	0.325
+Italy		Income definition until 2011	0.324
+Italy	2014	New income definition since 2012	0.326
+Italy		Income definition until 2011	..
+Italy	2015	New income definition since 2012	0.333
+Italy		Income definition until 2011	..
+Italy	2016	New income definition since 2012	0.327
+Italy		Income definition until 2011	..
+Italy	2017	New income definition since 2012	0.334
+Italy		Income definition until 2011	..
+Italy	2018	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Italy	2019	New income definition since 2012	..
+Italy		Income definition until 2011	..
+Japan	1974	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1975	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1976	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1977	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1978	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1979	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1980	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1981	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1982	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1983	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1984	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1985	New income definition since 2012	..
+Japan		Income definition until 2011	0.304
+Japan	1986	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1987	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1988	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1989	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1990	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1991	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1992	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1993	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1994	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1995	New income definition since 2012	..
+Japan		Income definition until 2011	0.323
+Japan	1996	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1997	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1998	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	1999	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2000	New income definition since 2012	..
+Japan		Income definition until 2011	0.337
+Japan	2001	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2002	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2003	New income definition since 2012	..
+Japan		Income definition until 2011	0.321
+Japan	2004	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2005	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2006	New income definition since 2012	..
+Japan		Income definition until 2011	0.329
+Japan	2007	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2008	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2009	New income definition since 2012	0.336
+Japan		Income definition until 2011	0.336
+Japan	2010	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2011	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2012	New income definition since 2012	0.33
+Japan		Income definition until 2011	0.33
+Japan	2013	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2014	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2015	New income definition since 2012	0.339
+Japan		Income definition until 2011	..
+Japan	2016	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2017	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2018	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Japan	2019	New income definition since 2012	..
+Japan		Income definition until 2011	..
+Korea	1974	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1975	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1976	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1977	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1978	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1979	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1980	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1981	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1982	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1983	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1984	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1985	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1986	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1987	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1988	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1989	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1990	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1991	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1992	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1993	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1994	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1995	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1996	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1997	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1998	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	1999	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2000	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2001	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2002	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2003	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2004	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2005	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2006	New income definition since 2012	..
+Korea		Income definition until 2011	0.306
+Korea	2007	New income definition since 2012	..
+Korea		Income definition until 2011	0.312
+Korea	2008	New income definition since 2012	..
+Korea		Income definition until 2011	0.314
+Korea	2009	New income definition since 2012	..
+Korea		Income definition until 2011	0.314
+Korea	2010	New income definition since 2012	..
+Korea		Income definition until 2011	0.31
+Korea	2011	New income definition since 2012	..
+Korea		Income definition until 2011	0.311
+Korea	2012	New income definition since 2012	..
+Korea		Income definition until 2011	0.307
+Korea	2013	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2014	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2015	New income definition since 2012	0.352
+Korea		Income definition until 2011	..
+Korea	2016	New income definition since 2012	0.355
+Korea		Income definition until 2011	..
+Korea	2017	New income definition since 2012	0.355
+Korea		Income definition until 2011	..
+Korea	2018	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Korea	2019	New income definition since 2012	..
+Korea		Income definition until 2011	..
+Latvia	1974	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1975	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1976	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1977	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1978	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1979	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1980	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1981	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1982	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1983	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1984	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1985	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1986	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1987	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1988	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1989	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1990	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1991	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1992	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1993	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1994	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1995	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1996	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1997	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1998	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	1999	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	2000	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	2001	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	2002	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	2003	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	2004	New income definition since 2012	0.364
+Latvia		Income definition until 2011	0.363
+Latvia	2005	New income definition since 2012	0.391
+Latvia		Income definition until 2011	0.392
+Latvia	2006	New income definition since 2012	0.35
+Latvia		Income definition until 2011	0.36
+Latvia	2007	New income definition since 2012	0.375
+Latvia		Income definition until 2011	0.381
+Latvia	2008	New income definition since 2012	0.375
+Latvia		Income definition until 2011	0.381
+Latvia	2009	New income definition since 2012	0.354
+Latvia		Income definition until 2011	0.362
+Latvia	2010	New income definition since 2012	0.346
+Latvia		Income definition until 2011	0.355
+Latvia	2011	New income definition since 2012	0.351
+Latvia		Income definition until 2011	0.361
+Latvia	2012	New income definition since 2012	0.346
+Latvia		Income definition until 2011	0.355
+Latvia	2013	New income definition since 2012	0.351
+Latvia		Income definition until 2011	0.36
+Latvia	2014	New income definition since 2012	0.349
+Latvia		Income definition until 2011	..
+Latvia	2015	New income definition since 2012	0.346
+Latvia		Income definition until 2011	..
+Latvia	2016	New income definition since 2012	0.346
+Latvia		Income definition until 2011	..
+Latvia	2017	New income definition since 2012	0.355
+Latvia		Income definition until 2011	..
+Latvia	2018	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Latvia	2019	New income definition since 2012	..
+Latvia		Income definition until 2011	..
+Lithuania	1974	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1975	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1976	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1977	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1978	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1979	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1980	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1981	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1982	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1983	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1984	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1985	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1986	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1987	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1988	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1989	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1990	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1991	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1992	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1993	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1994	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1995	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1996	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1997	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1998	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	1999	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	2000	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	2001	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	2002	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	2003	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	2004	New income definition since 2012	0.349
+Lithuania		Income definition until 2011	0.366
+Lithuania	2005	New income definition since 2012	0.352
+Lithuania		Income definition until 2011	0.351
+Lithuania	2006	New income definition since 2012	0.328
+Lithuania		Income definition until 2011	0.339
+Lithuania	2007	New income definition since 2012	0.337
+Lithuania		Income definition until 2011	0.345
+Lithuania	2008	New income definition since 2012	0.357
+Lithuania		Income definition until 2011	0.364
+Lithuania	2009	New income definition since 2012	0.365
+Lithuania		Income definition until 2011	0.373
+Lithuania	2010	New income definition since 2012	0.329
+Lithuania		Income definition until 2011	0.335
+Lithuania	2011	New income definition since 2012	0.321
+Lithuania		Income definition until 2011	0.326
+Lithuania	2012	New income definition since 2012	0.35
+Lithuania		Income definition until 2011	0.352
+Lithuania	2013	New income definition since 2012	0.351
+Lithuania		Income definition until 2011	0.354
+Lithuania	2014	New income definition since 2012	0.38
+Lithuania		Income definition until 2011	..
+Lithuania	2015	New income definition since 2012	0.372
+Lithuania		Income definition until 2011	..
+Lithuania	2016	New income definition since 2012	0.378
+Lithuania		Income definition until 2011	..
+Lithuania	2017	New income definition since 2012	0.374
+Lithuania		Income definition until 2011	..
+Lithuania	2018	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Lithuania	2019	New income definition since 2012	..
+Lithuania		Income definition until 2011	..
+Luxembourg	1974	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1975	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1976	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1977	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1978	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1979	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1980	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1981	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1982	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1983	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1984	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1985	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1986	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.247
+Luxembourg	1987	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1988	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1989	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1990	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1991	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1992	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1993	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1994	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1995	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1996	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.259
+Luxembourg	1997	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1998	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	1999	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	2000	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	2001	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.261
+Luxembourg	2002	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	2003	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	2004	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.263
+Luxembourg	2005	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.281
+Luxembourg	2006	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.274
+Luxembourg	2007	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.275
+Luxembourg	2008	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.289
+Luxembourg	2009	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.277
+Luxembourg	2010	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.27
+Luxembourg	2011	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.276
+Luxembourg	2012	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.298
+Luxembourg	2013	New income definition since 2012	..
+Luxembourg		Income definition until 2011	0.279
+Luxembourg	2014	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	2015	New income definition since 2012	0.306
+Luxembourg		Income definition until 2011	..
+Luxembourg	2016	New income definition since 2012	0.305
+Luxembourg		Income definition until 2011	..
+Luxembourg	2017	New income definition since 2012	0.327
+Luxembourg		Income definition until 2011	..
+Luxembourg	2018	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Luxembourg	2019	New income definition since 2012	..
+Luxembourg		Income definition until 2011	..
+Mexico	1974	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1975	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1976	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1977	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1978	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1979	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1980	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1981	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1982	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1983	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1984	New income definition since 2012	..
+Mexico		Income definition until 2011	0.452
+Mexico	1985	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1986	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1987	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1988	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1989	New income definition since 2012	..
+Mexico		Income definition until 2011	0.495
+Mexico	1990	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1991	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1992	New income definition since 2012	..
+Mexico		Income definition until 2011	0.512
+Mexico	1993	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1994	New income definition since 2012	..
+Mexico		Income definition until 2011	0.519
+Mexico	1995	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1996	New income definition since 2012	..
+Mexico		Income definition until 2011	0.504
+Mexico	1997	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	1998	New income definition since 2012	..
+Mexico		Income definition until 2011	0.513
+Mexico	1999	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2000	New income definition since 2012	..
+Mexico		Income definition until 2011	0.507
+Mexico	2001	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2002	New income definition since 2012	..
+Mexico		Income definition until 2011	0.487
+Mexico	2003	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2004	New income definition since 2012	..
+Mexico		Income definition until 2011	0.474
+Mexico	2005	New income definition since 2012	..
+Mexico		Income definition until 2011	0.486
+Mexico	2006	New income definition since 2012	..
+Mexico		Income definition until 2011	0.471
+Mexico	2007	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2008	New income definition since 2012	..
+Mexico		Income definition until 2011	0.475
+Mexico	2009	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2010	New income definition since 2012	..
+Mexico		Income definition until 2011	0.466
+Mexico	2011	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2012	New income definition since 2012	0.457
+Mexico		Income definition until 2011	0.482
+Mexico	2013	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2014	New income definition since 2012	0.459
+Mexico		Income definition until 2011	..
+Mexico	2015	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2016	New income definition since 2012	0.458
+Mexico		Income definition until 2011	..
+Mexico	2017	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2018	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Mexico	2019	New income definition since 2012	..
+Mexico		Income definition until 2011	..
+Netherlands	1974	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1975	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1976	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1977	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.263
+Netherlands	1978	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1979	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1980	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1981	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1982	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1983	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1984	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1985	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.272
+Netherlands	1986	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1987	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1988	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1989	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1990	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.292
+Netherlands	1991	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1992	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1993	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1994	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1995	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.297
+Netherlands	1996	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1997	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1998	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	1999	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2000	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.292
+Netherlands	2001	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2002	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2003	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2004	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2005	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.284
+Netherlands	2006	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.28
+Netherlands	2007	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.295
+Netherlands	2008	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.286
+Netherlands	2009	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.283
+Netherlands	2010	New income definition since 2012	..
+Netherlands		Income definition until 2011	0.283
+Netherlands	2011	New income definition since 2012	0.289
+Netherlands		Income definition until 2011	..
+Netherlands	2012	New income definition since 2012	0.288
+Netherlands		Income definition until 2011	0.278
+Netherlands	2013	New income definition since 2012	0.287
+Netherlands		Income definition until 2011	..
+Netherlands	2014	New income definition since 2012	0.303
+Netherlands		Income definition until 2011	..
+Netherlands	2015	New income definition since 2012	0.288
+Netherlands		Income definition until 2011	..
+Netherlands	2016	New income definition since 2012	0.285
+Netherlands		Income definition until 2011	..
+Netherlands	2017	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2018	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+Netherlands	2019	New income definition since 2012	..
+Netherlands		Income definition until 2011	..
+New Zealand	1974	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1975	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1976	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1977	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1978	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1979	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1980	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1981	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1982	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1983	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1984	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1985	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.271
+New Zealand	1986	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1987	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1988	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1989	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1990	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.318
+New Zealand	1991	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1992	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1993	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1994	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1995	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.335
+New Zealand	1996	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1997	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1998	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	1999	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2000	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.339
+New Zealand	2001	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2002	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2003	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.335
+New Zealand	2004	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2005	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2006	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2007	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2008	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.33
+New Zealand	2009	New income definition since 2012	..
+New Zealand		Income definition until 2011	0.324
+New Zealand	2010	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2011	New income definition since 2012	0.323
+New Zealand		Income definition until 2011	0.323
+New Zealand	2012	New income definition since 2012	0.333
+New Zealand		Income definition until 2011	..
+New Zealand	2013	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2014	New income definition since 2012	0.349
+New Zealand		Income definition until 2011	..
+New Zealand	2015	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2016	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2017	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2018	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+New Zealand	2019	New income definition since 2012	..
+New Zealand		Income definition until 2011	..
+Norway	1974	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1975	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1976	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1977	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1978	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1979	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1980	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1981	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1982	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1983	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1984	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1985	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1986	New income definition since 2012	..
+Norway		Income definition until 2011	0.222
+Norway	1987	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1988	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1989	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1990	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1991	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1992	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1993	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1994	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1995	New income definition since 2012	..
+Norway		Income definition until 2011	0.243
+Norway	1996	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1997	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1998	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	1999	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2000	New income definition since 2012	..
+Norway		Income definition until 2011	0.261
+Norway	2001	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2002	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2003	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2004	New income definition since 2012	0.285
+Norway		Income definition until 2011	0.276
+Norway	2005	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2006	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2007	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2008	New income definition since 2012	0.25
+Norway		Income definition until 2011	0.25
+Norway	2009	New income definition since 2012	0.245
+Norway		Income definition until 2011	0.245
+Norway	2010	New income definition since 2012	0.249
+Norway		Income definition until 2011	0.249
+Norway	2011	New income definition since 2012	0.25
+Norway		Income definition until 2011	0.25
+Norway	2012	New income definition since 2012	0.253
+Norway		Income definition until 2011	..
+Norway	2013	New income definition since 2012	0.252
+Norway		Income definition until 2011	..
+Norway	2014	New income definition since 2012	0.257
+Norway		Income definition until 2011	..
+Norway	2015	New income definition since 2012	0.272
+Norway		Income definition until 2011	..
+Norway	2016	New income definition since 2012	0.262
+Norway		Income definition until 2011	..
+Norway	2017	New income definition since 2012	0.262
+Norway		Income definition until 2011	..
+Norway	2018	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Norway	2019	New income definition since 2012	..
+Norway		Income definition until 2011	..
+Poland	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	0.327
+		Income definition until 2011	0.327
+	2006	New income definition since 2012	0.315
+		Income definition until 2011	0.317
+	2007	New income definition since 2012	0.315
+		Income definition until 2011	0.318
+	2008	New income definition since 2012	0.307
+		Income definition until 2011	0.31
+	2009	New income definition since 2012	0.303
+		Income definition until 2011	0.306
+	2010	New income definition since 2012	0.304
+		Income definition until 2011	0.307
+	2011	New income definition since 2012	0.301
+		Income definition until 2011	0.303
+	2012	New income definition since 2012	0.298
+		Income definition until 2011	0.3
+	2013	New income definition since 2012	0.299
+		Income definition until 2011	0.301
+	2014	New income definition since 2012	0.297
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.291
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.285
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.275
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Portugal	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	0.383
+		Income definition until 2011	0.383
+	2005	New income definition since 2012	0.378
+		Income definition until 2011	0.377
+	2006	New income definition since 2012	0.368
+		Income definition until 2011	0.37
+	2007	New income definition since 2012	0.36
+		Income definition until 2011	0.364
+	2008	New income definition since 2012	0.354
+		Income definition until 2011	0.358
+	2009	New income definition since 2012	0.336
+		Income definition until 2011	0.341
+	2010	New income definition since 2012	0.341
+		Income definition until 2011	0.345
+	2011	New income definition since 2012	0.337
+		Income definition until 2011	0.341
+	2012	New income definition since 2012	0.337
+		Income definition until 2011	0.341
+	2013	New income definition since 2012	0.341
+		Income definition until 2011	0.344
+	2014	New income definition since 2012	0.338
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.336
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.331
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.32
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Slovak Republic	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	0.267
+		Income definition until 2011	0.266
+	2005	New income definition since 2012	0.289
+		Income definition until 2011	0.288
+	2006	New income definition since 2012	0.251
+		Income definition until 2011	0.246
+	2007	New income definition since 2012	0.246
+		Income definition until 2011	0.244
+	2008	New income definition since 2012	0.257
+		Income definition until 2011	0.255
+	2009	New income definition since 2012	0.267
+		Income definition until 2011	0.263
+	2010	New income definition since 2012	0.265
+		Income definition until 2011	0.262
+	2011	New income definition since 2012	0.262
+		Income definition until 2011	0.261
+	2012	New income definition since 2012	0.251
+		Income definition until 2011	0.249
+	2013	New income definition since 2012	0.27
+		Income definition until 2011	0.268
+	2014	New income definition since 2012	0.247
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.25
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.241
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Slovenia	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	0.241
+		Income definition until 2011	0.246
+	2005	New income definition since 2012	0.24
+		Income definition until 2011	0.246
+	2006	New income definition since 2012	0.237
+		Income definition until 2011	0.241
+	2007	New income definition since 2012	0.238
+		Income definition until 2011	0.241
+	2008	New income definition since 2012	0.234
+		Income definition until 2011	0.236
+	2009	New income definition since 2012	0.245
+		Income definition until 2011	0.247
+	2010	New income definition since 2012	0.245
+		Income definition until 2011	0.246
+	2011	New income definition since 2012	0.243
+		Income definition until 2011	0.245
+	2012	New income definition since 2012	0.249
+		Income definition until 2011	0.251
+	2013	New income definition since 2012	0.254
+		Income definition until 2011	0.255
+	2014	New income definition since 2012	0.251
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.25
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.244
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.243
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Spain	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	0.313
+		Income definition until 2011	..
+	2008	New income definition since 2012	0.327
+		Income definition until 2011	..
+	2009	New income definition since 2012	0.333
+		Income definition until 2011	..
+	2010	New income definition since 2012	0.339
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.341
+		Income definition until 2011	..
+	2012	New income definition since 2012	0.334
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.345
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.343
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.344
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.341
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.333
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Sweden	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	0.212
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	0.198
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	0.209
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	0.211
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	0.243
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	0.234
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	0.259
+	2009	New income definition since 2012	..
+		Income definition until 2011	0.269
+	2010	New income definition since 2012	..
+		Income definition until 2011	0.269
+	2011	New income definition since 2012	..
+		Income definition until 2011	0.273
+	2012	New income definition since 2012	..
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.268
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.274
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.278
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.282
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.282
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Switzerland	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	0.305
+		Income definition until 2011	..
+	2007	New income definition since 2012	0.312
+		Income definition until 2011	..
+	2008	New income definition since 2012	0.306
+		Income definition until 2011	..
+	2009	New income definition since 2012	0.297
+		Income definition until 2011	0.298
+	2010	New income definition since 2012	0.298
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.289
+		Income definition until 2011	0.289
+	2012	New income definition since 2012	0.285
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.295
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.297
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.296
+		Income definition until 2011	..
+	2016	New income definition since 2012	..
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Turkey	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	0.434
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	0.49
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	0.43
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	0.409
+	2008	New income definition since 2012	..
+		Income definition until 2011	..
+	2009	New income definition since 2012	..
+		Income definition until 2011	0.411
+	2010	New income definition since 2012	..
+		Income definition until 2011	0.417
+	2011	New income definition since 2012	0.403
+		Income definition until 2011	0.412
+	2012	New income definition since 2012	0.399
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.39
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.398
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.404
+		Income definition until 2011	..
+	2016	New income definition since 2012	..
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+United Kingdom	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	0.269
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	0.309
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	0.355
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	0.337
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	0.34
+	2000	New income definition since 2012	..
+		Income definition until 2011	0.352
+	2001	New income definition since 2012	..
+		Income definition until 2011	0.34
+	2002	New income definition since 2012	0.359
+		Income definition until 2011	0.335
+	2003	New income definition since 2012	0.353
+		Income definition until 2011	0.335
+	2004	New income definition since 2012	0.354
+		Income definition until 2011	0.331
+	2005	New income definition since 2012	0.359
+		Income definition until 2011	0.335
+	2006	New income definition since 2012	0.364
+		Income definition until 2011	0.339
+	2007	New income definition since 2012	0.373
+		Income definition until 2011	0.341
+	2008	New income definition since 2012	0.369
+		Income definition until 2011	0.342
+	2009	New income definition since 2012	0.374
+		Income definition until 2011	0.345
+	2010	New income definition since 2012	0.351
+		Income definition until 2011	0.341
+	2011	New income definition since 2012	0.354
+		Income definition until 2011	..
+	2012	New income definition since 2012	0.351
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.358
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.356
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.36
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.351
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.357
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+United States	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	0.369
+	1994	New income definition since 2012	..
+		Income definition until 2011	0.366
+	1995	New income definition since 2012	..
+		Income definition until 2011	0.361
+	1996	New income definition since 2012	..
+		Income definition until 2011	0.363
+	1997	New income definition since 2012	..
+		Income definition until 2011	0.364
+	1998	New income definition since 2012	..
+		Income definition until 2011	0.357
+	1999	New income definition since 2012	..
+		Income definition until 2011	0.354
+	2000	New income definition since 2012	..
+		Income definition until 2011	0.357
+	2001	New income definition since 2012	..
+		Income definition until 2011	0.36
+	2002	New income definition since 2012	..
+		Income definition until 2011	0.376
+	2003	New income definition since 2012	..
+		Income definition until 2011	0.374
+	2004	New income definition since 2012	..
+		Income definition until 2011	0.36
+	2005	New income definition since 2012	..
+		Income definition until 2011	0.38
+	2006	New income definition since 2012	..
+		Income definition until 2011	0.384
+	2007	New income definition since 2012	..
+		Income definition until 2011	0.376
+	2008	New income definition since 2012	..
+		Income definition until 2011	0.378
+	2009	New income definition since 2012	..
+		Income definition until 2011	0.379
+	2010	New income definition since 2012	..
+		Income definition until 2011	0.38
+	2011	New income definition since 2012	..
+		Income definition until 2011	0.389
+	2012	New income definition since 2012	..
+		Income definition until 2011	0.389
+	2013	New income definition since 2012	0.396
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.394
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.39
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.391
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.39
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Brazil	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	0.51
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	..
+	2009	New income definition since 2012	0.485
+		Income definition until 2011	..
+	2010	New income definition since 2012	..
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.483
+		Income definition until 2011	..
+	2012	New income definition since 2012	..
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.47
+		Income definition until 2011	..
+	2014	New income definition since 2012	..
+		Income definition until 2011	..
+	2015	New income definition since 2012	..
+		Income definition until 2011	..
+	2016	New income definition since 2012	..
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Bulgaria	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	0.353
+		Income definition until 2011	..
+	2007	New income definition since 2012	0.363
+		Income definition until 2011	..
+	2008	New income definition since 2012	0.33
+		Income definition until 2011	..
+	2009	New income definition since 2012	0.33
+		Income definition until 2011	..
+	2010	New income definition since 2012	0.329
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.34
+		Income definition until 2011	..
+	2012	New income definition since 2012	0.356
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.354
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.369
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.377
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.402
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.395
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+China (People's Republic of)	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	..
+	2009	New income definition since 2012	..
+		Income definition until 2011	..
+	2010	New income definition since 2012	..
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.514
+		Income definition until 2011	..
+	2012	New income definition since 2012	..
+		Income definition until 2011	..
+	2013	New income definition since 2012	..
+		Income definition until 2011	..
+	2014	New income definition since 2012	..
+		Income definition until 2011	..
+	2015	New income definition since 2012	..
+		Income definition until 2011	..
+	2016	New income definition since 2012	..
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Costa Rica	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	..
+	2009	New income definition since 2012	..
+		Income definition until 2011	..
+	2010	New income definition since 2012	0.472
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.48
+		Income definition until 2011	..
+	2012	New income definition since 2012	0.483
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.494
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.485
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.479
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.484
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.48
+		Income definition until 2011	..
+	2018	New income definition since 2012	0.479
+		Income definition until 2011	..
+	2019	New income definition since 2012	0.478
+		Income definition until 2011	..
+India	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	0.482
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	..
+	2009	New income definition since 2012	..
+		Income definition until 2011	..
+	2010	New income definition since 2012	..
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.495
+		Income definition until 2011	..
+	2012	New income definition since 2012	..
+		Income definition until 2011	..
+	2013	New income definition since 2012	..
+		Income definition until 2011	..
+	2014	New income definition since 2012	..
+		Income definition until 2011	..
+	2015	New income definition since 2012	..
+		Income definition until 2011	..
+	2016	New income definition since 2012	..
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Romania	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	0.38
+		Income definition until 2011	..
+	2007	New income definition since 2012	0.36
+		Income definition until 2011	..
+	2008	New income definition since 2012	0.349
+		Income definition until 2011	..
+	2009	New income definition since 2012	0.333
+		Income definition until 2011	..
+	2010	New income definition since 2012	0.339
+		Income definition until 2011	..
+	2011	New income definition since 2012	0.339
+		Income definition until 2011	..
+	2012	New income definition since 2012	0.344
+		Income definition until 2011	..
+	2013	New income definition since 2012	0.347
+		Income definition until 2011	..
+	2014	New income definition since 2012	0.371
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.346
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.332
+		Income definition until 2011	..
+	2017	New income definition since 2012	0.351
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Russia	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	0.428
+	2009	New income definition since 2012	..
+		Income definition until 2011	..
+	2010	New income definition since 2012	..
+		Income definition until 2011	0.396
+	2011	New income definition since 2012	0.376
+		Income definition until 2011	..
+	2012	New income definition since 2012	..
+		Income definition until 2011	..
+	2013	New income definition since 2012	..
+		Income definition until 2011	..
+	2014	New income definition since 2012	..
+		Income definition until 2011	..
+	2015	New income definition since 2012	..
+		Income definition until 2011	..
+	2016	New income definition since 2012	0.331
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+South Africa	1974	New income definition since 2012	..
+		Income definition until 2011	..
+	1975	New income definition since 2012	..
+		Income definition until 2011	..
+	1976	New income definition since 2012	..
+		Income definition until 2011	..
+	1977	New income definition since 2012	..
+		Income definition until 2011	..
+	1978	New income definition since 2012	..
+		Income definition until 2011	..
+	1979	New income definition since 2012	..
+		Income definition until 2011	..
+	1980	New income definition since 2012	..
+		Income definition until 2011	..
+	1981	New income definition since 2012	..
+		Income definition until 2011	..
+	1982	New income definition since 2012	..
+		Income definition until 2011	..
+	1983	New income definition since 2012	..
+		Income definition until 2011	..
+	1984	New income definition since 2012	..
+		Income definition until 2011	..
+	1985	New income definition since 2012	..
+		Income definition until 2011	..
+	1986	New income definition since 2012	..
+		Income definition until 2011	..
+	1987	New income definition since 2012	..
+		Income definition until 2011	..
+	1988	New income definition since 2012	..
+		Income definition until 2011	..
+	1989	New income definition since 2012	..
+		Income definition until 2011	..
+	1990	New income definition since 2012	..
+		Income definition until 2011	..
+	1991	New income definition since 2012	..
+		Income definition until 2011	..
+	1992	New income definition since 2012	..
+		Income definition until 2011	..
+	1993	New income definition since 2012	..
+		Income definition until 2011	..
+	1994	New income definition since 2012	..
+		Income definition until 2011	..
+	1995	New income definition since 2012	..
+		Income definition until 2011	..
+	1996	New income definition since 2012	..
+		Income definition until 2011	..
+	1997	New income definition since 2012	..
+		Income definition until 2011	..
+	1998	New income definition since 2012	..
+		Income definition until 2011	..
+	1999	New income definition since 2012	..
+		Income definition until 2011	..
+	2000	New income definition since 2012	..
+		Income definition until 2011	..
+	2001	New income definition since 2012	..
+		Income definition until 2011	..
+	2002	New income definition since 2012	..
+		Income definition until 2011	..
+	2003	New income definition since 2012	..
+		Income definition until 2011	..
+	2004	New income definition since 2012	..
+		Income definition until 2011	..
+	2005	New income definition since 2012	..
+		Income definition until 2011	..
+	2006	New income definition since 2012	..
+		Income definition until 2011	..
+	2007	New income definition since 2012	..
+		Income definition until 2011	..
+	2008	New income definition since 2012	..
+		Income definition until 2011	..
+	2009	New income definition since 2012	..
+		Income definition until 2011	..
+	2010	New income definition since 2012	..
+		Income definition until 2011	..
+	2011	New income definition since 2012	..
+		Income definition until 2011	..
+	2012	New income definition since 2012	..
+		Income definition until 2011	..
+	2013	New income definition since 2012	..
+		Income definition until 2011	..
+	2014	New income definition since 2012	..
+		Income definition until 2011	..
+	2015	New income definition since 2012	0.62
+		Income definition until 2011	..
+	2016	New income definition since 2012	..
+		Income definition until 2011	..
+	2017	New income definition since 2012	..
+		Income definition until 2011	..
+	2018	New income definition since 2012	..
+		Income definition until 2011	..
+	2019	New income definition since 2012	..
+		Income definition until 2011	..
+Data extracted on 04 Mar 2020 20:52 UTC (GMT) from OECD.Stat			
+Legend:			
+P:	Provisional value		

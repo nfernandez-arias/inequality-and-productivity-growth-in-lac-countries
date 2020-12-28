@@ -1,0 +1,21 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC growth gap (Non-LAC Benchmark)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita      &     0.22\sym{***}&   -0.033         &     0.18         \\
+output gap (rel. USA)&  (0.076)         &   (0.13)         &   (0.13)         \\
+\addlinespace
+LAC             &    -0.62\sym{***}&   -0.086         &    -0.70\sym{**} \\
+                &   (0.17)         &   (0.22)         &   (0.28)         \\
+\midrule
+Observations    &     3550         &     3550         &     3550         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \sigma \mathbf{1}_{\textrm{LAC}} + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

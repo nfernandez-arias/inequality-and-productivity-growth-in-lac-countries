@@ -1,0 +1,139 @@
+\documentclass[12pt,english]{article}
+\usepackage{lmodern}
+\linespread{1.05}
+%\usepackage{mathpazo}
+%\usepackage{mathptmx}
+%\usepackage{utopia}
+\usepackage{microtype}
+\usepackage{placeins}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{geometry}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{svg}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{blindtext}
+%\renewcommand{\arraystretch}{1.2}
+\usepackage{multirow}
+\usepackage{float}
+
+% TikZ stuff
+
+\usepackage{tikz}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{cancel}
+\usepackage{color}
+\usepackage{siunitx}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage{tabularx}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{shadows.blur}
+
+
+
+
+\usepackage{rotating}
+
+%\usepackage{caption}
+%\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\usepackage{courier}
+\usepackage{verbatim}
+\usepackage[round]{natbib}
+\bibliographystyle{plainnat}
+
+\definecolor{red1}{RGB}{128,0,0}
+%\geometry{verbose,tmargin=1.25in,bmargin=1.25in,lmargin=1.25in,rmargin=1.25in}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{setspace}
+
+\usepackage[colorlinks=true, linkcolor={red!70!black}, citecolor={blue!50!black}, urlcolor={blue!80!black}]{hyperref}
+%\usepackage{esint}
+\onehalfspacing
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+\begin{document}
+	
+\title{Construction of dataset\\ \small Project: Ineq. and growth in LAC vs other developing countries \\ \href{https://drive.google.com/open?id=1hGUyztXgF7xwMnW3oJiBXJfl9bk7-Gi-}{Click here for most recent version}}
+\author{Nicolas Fernandez-Arias}
+\maketitle
+
+\section{Preliminaries}
+
+\begin{enumerate}
+	\item Extract variables \texttt{countrycode}, \texttt{country}, \texttt{year}, \texttt{cgdpo}, \texttt{rtfpna}, \texttt{rgdpna},\texttt{pop} from Penn World Tables 9.1
+	\item Subset $\texttt{year} \ge 1960$
+	\item Choose only countries which have data for every variable from at least $\texttt{year} = 1964$.
+	\item Construct per-capita \texttt{cgdpoPerCapita} and \texttt{rgdpnaPerCapita} by dividing \texttt{cgdpo} and \texttt{rgdpna} variables by \texttt{pop}, respectively
+	\item Take logs to construct \texttt{lrtfpna}, \texttt{lrgdpnaPerCapita}, \texttt{lcgdpoPerCapita} 
+	\item Take 1-yr differences (by \texttt{country}) of log variables \texttt{lrtfpna} and \texttt{lrgdpnaPerCapita} to construct \texttt{lrtfpna\_chg1} and \texttt{lrgdpnaPerCapita\_chg1}
+\end{enumerate}
+
+\section{Extrapolation}
+
+Some of the countries don't have TFP data until 1960 (missing in 1960, 1961, 1962, and 1963 except for Burkina Faso). Specifically, these countries are 
+\begin{itemize}
+	\item Barbados, Cote d'Ivoire, Cameroon, Hong Kong, Indonesia, Mozambique, Niger, Romania, Senegal, Singapore, Tunisia, Tanzania, and Burkina Faso
+\end{itemize}
+
+For these, we conduct country-specific regressions of \texttt{lrtfpna\_chg1} on \texttt{lrgdpnaPerCapita\_chg1} using the available sample for each country. Using the estimated coefficients, we extrapolate \texttt{lrtfpna\_chg1} back to 1961. We then use these extrapolated changes to imput \texttt{lrtfpna} back to 1960. 
+
+\section{Final dataset construction}
+
+\begin{enumerate}
+	\item Constructing annual measures
+	\begin{itemize}
+		\item Construct 1-year differences by country: \texttt{lrgdpnaPerCapita\_chg1}, \texttt{lrtfpna\_chg1} 
+		\item Decompose annual growth in GDP per capita into TFP and nonTFP sources:
+		\begin{align*}
+		\texttt{lrgdpnaPerCapita\_chg1\_nonTFP} &= \texttt{lrgdpnaPerCapita\_chg1} - \texttt{lrtfpna\_chg1}
+		\end{align*}
+	\end{itemize}	
+	\item Construct annualized 7-year measures
+	\begin{itemize}
+		\item Take differences: \texttt{lrgdpnaPerCapita\_chg7}, \texttt{lrtfpna\_chg7}
+		\item Decompose growth in GDP per capita into TFP and nonTFP sources:
+		\begin{align*}
+		\texttt{lrgdpnaPerCapita\_chg7\_nonTFP} &= \texttt{lrgdpnaPerCapita\_chg7} - \texttt{lrtfpna\_chg7}
+		\end{align*}
+	\end{itemize}  
+	\item Construct the "GDP" gap  
+	\begin{itemize}
+		\item Construct \texttt{lcgdpoPerCapitaUSA} for each country-year, equal to the USA's value of \texttt{lcgdpoPerCapita} in that year
+		\item Construct annual gap		
+		\begin{align*}
+		\texttt{lcgdpoPerCapita\_gap} &= \texttt{lcgdpoPerCapita} - \texttt{lcgdpoPerCapitaUSA}
+		\end{align*}
+		\item Construct 7-yr trailing moving average of gap, \texttt{lcgdpoPerCapita\_gap\_avg7}
+	\end{itemize}
+	\item Construct dataset \texttt{pwt\_7.csv} which consists only of observations for the years at the ends of the 7-year periods described in the text (i.e., 1968, 1975, etc.) 
+	\item Categorize countries into regions \textbf{USA}, \textbf{East Asian Tigers}, \textbf{Africa}, \textbf{LAC}, and \textbf{Others}:
+	\begin{itemize}
+		\item \textbf{East Asian Tigers:} Hong Kong, South Korea, Taiwan, Singapore 
+		\item \textbf{LAC:} Argentina, Barbados, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Peru, Trinidad and Tobago, Uruguay, Venezuela
+		\item \textbf{Africa:} Burkina Faso, Cameroon, Cote d'Ivoire, Egypt, Kenya, Morocco, Mozambique, Niger, Nigeria, Senegal, South Africa, Tunisia, Tanzania, Zimbabwe
+		\item \textbf{Others:} Australia, Austria, Belgium, Canada, China, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland, India, Indonesia, Iran, Ireland, Israel, Italy, Japan, Jordan, Luxembourg, Malaysia, Malta, Netherlands, New Zealand, Norway, Philippines, Portugal, Romania, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, United Kingdom
+	\end{itemize}
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+\end{document}

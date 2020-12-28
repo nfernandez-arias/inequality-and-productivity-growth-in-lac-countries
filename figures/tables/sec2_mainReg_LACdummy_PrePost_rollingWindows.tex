@@ -1,0 +1,24 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC growth gap, pre- and post-1990 (Non-LAC Benchmark)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita      &     0.22\sym{***}&   -0.030         &     0.19         \\
+output gap (rel. USA)&  (0.076)         &   (0.13)         &   (0.13)         \\
+\addlinespace
+LAC $\times$ pre&    -0.93\sym{***}&    -0.33         &    -1.26\sym{***}\\
+1990            &   (0.28)         &   (0.28)         &   (0.38)         \\
+\addlinespace
+LAC $\times$    &    -0.31         &     0.16         &    -0.15         \\
+post 1990       &   (0.19)         &   (0.26)         &   (0.34)         \\
+\midrule
+Observations    &     3550         &     3550         &     3550         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \sigma_1 \mathbf{1}_{\textrm{LAC,pre1990}} + \sigma_2 \mathbf{1}_{\textrm{LAC,post1990}} + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

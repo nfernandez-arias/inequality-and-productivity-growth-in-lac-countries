@@ -1,0 +1,262 @@
+\documentclass[12pt,english]{article}
+\usepackage{lmodern}
+\linespread{1.05}
+%\usepackage{mathpazo}
+%\usepackage{mathptmx}
+%\usepackage{utopia}
+\usepackage{microtype}
+\usepackage{placeins}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{geometry}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{svg}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{blindtext}
+%\renewcommand{\arraystretch}{1.2}
+\usepackage{multirow}
+\usepackage{float}
+
+% TikZ stuff
+
+\usepackage{tikz}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{cancel}
+\usepackage{color}
+\usepackage{siunitx}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage{tabularx}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{shadows.blur}
+
+
+
+
+
+
+%\usepackage{caption}
+%\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\usepackage{courier}
+\usepackage{verbatim}
+\usepackage[round]{natbib}
+\bibliographystyle{plainnat}
+
+\definecolor{red1}{RGB}{128,0,0}
+%\geometry{verbose,tmargin=1.25in,bmargin=1.25in,lmargin=1.25in,rmargin=1.25in}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{setspace}
+
+\usepackage[colorlinks=true, linkcolor={red!70!black}, citecolor={blue!50!black}, urlcolor={blue!80!black}]{hyperref}
+%\usepackage{esint}
+\onehalfspacing
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+\begin{document}
+	
+\title{Inequality and growth in LAC vs other developing countries}
+\maketitle
+
+\section{Assembling dataset}
+
+Overall outline:
+\begin{enumerate}
+	\item Take logs and compute arithmetic changes
+	\item Extrapolate back annual log changes using regression in log changes
+	\item Compute missing log levels using regression extrapolated log changes
+	\item Compute log changes over 7-year intervals
+\end{enumerate}
+
+\subsection{Country / regions}
+
+\begin{enumerate}
+	\item Include all countries that have no missing data from at least 1964 (see extrapolation)
+	\item Regions
+	\begin{itemize}
+		\item East asian tigers
+		\begin{itemize}
+			\item Hong Kong
+			\item S Korea
+			\item Singapore
+			\item Taiwan
+			\item Malaysia
+			\item Thailand
+		\end{itemize}
+		\item US
+		\item LAC
+		\item Africa
+	\end{itemize}
+\end{enumerate}
+
+
+\subsection{Extrapolation}
+
+\begin{enumerate}
+	\item For each country, regress rtfpna on rgdpna (annual data)
+	\item Impute rtfpna using rgdpna and coefficient in years where missing
+\end{enumerate}
+
+\subsection{Plots}
+
+\begin{enumerate}
+	\item Make RGDP / capita growth plot for LAC average (1-yr, alongside 7-year averages)
+\end{enumerate}
+
+Also, 
+\begin{enumerate}
+	\item Make RGDP / capita growth plot (7-yr average only) for individual LAC vs LAC average (with 7-year averages, etc.)
+\end{enumerate}
+
+Also,
+\begin{enumerate}
+	\item For LAC countries, do plot comparing 1-yr changes in rolling 7-yr RGDP growth and changes in TFP growth (done)
+	\item \textbf{To do: compute correlations, but NOT rolling.}
+\end{enumerate}
+
+\subsection{Tables}
+
+\textbf{Add pre-1990 and post-1990 mean to table}
+
+\input{"../figures/tables/LACgrowthDecomposition_table.tex"}
+
+\input{"../figures/tables/LACgrowthDecomposition_correlations_table.tex"}
+
+\input{"../figures/tables/LACgrowthDecomposition_benchmark_nonLAC.tex"}
+
+\input{"../figures/tables/LACgrowthDecomposition_benchmark_Africa.tex"}
+
+\input{"../figures/tables/LACgrowthDecomposition_benchmark_EAT.tex"}
+
+\input{"../figures/tables/LACgrowthDecomposition_benchmark_USA.tex"}
+
+\subsubsection{Tables - controlled for gap}
+
+\input{../figures/tables/LACvsNONLAC_gapControlled.tex}
+
+\input{../figures/tables/LACvsEAT_gapControlled.tex}
+
+\input{../figures/tables/LACvsAFR_gapControlled.tex}
+
+\input{../figures/tables/LACvsUSA_gapControlled.tex}
+
+\section{Comparative growth accounting}
+
+Benchmarks are:
+\begin{enumerate}
+	\item Africa
+	\item East Asian tiger
+	\item USA
+	\item Non-LAC
+\end{enumerate}
+
+\subsection{LAC vs benchmarks}
+
+For each benchmark, compare LAC growth variables (gdp, tfp, non-tfp) to benchmark, in each time period (7-years) and cumulative.
+
+\subsection{Individual countries vs benchmarks}
+
+For each LAC country \textit{and} LAC average, compare growth variables (see above) to benchmark, only cumulative.
+
+\subsection{Regression}
+
+For each of the growth variables - tfp, non-tfp, and total per-capita gdp growth, do regression on non-LAC subsample of countries:
+\begin{align}
+	g_{it} &= \alpha + \gamma_t + \beta \big( \log (\textrm{cgdpo}_{it} * (\frac{\textrm{pop}_{USA,t}}{\textrm{pop}_{it}} ) \big) + \epsilon_{it}
+\end{align}
+
+The purpose of this is to obtain an estimate of the "typical" unconditional convergence in non-LAC countries, against which to compare LAC countries' unconditional convergence. 
+
+\begin{enumerate}
+	\item Try setting last time dummy to zero
+	\item Do a regression with only a LAC dummy
+	\item Try a regression with country dummies (then can average to find regional dummy) 
+\end{enumerate}
+
+\pagebreak
+
+\subsubsection{Main regression}
+
+\footnotesize
+
+\input{../figures/tables/sec2_mainReg_noCountryRegionDummies.tex}
+
+\input{../figures/tables/sec2_mainReg_noCountryRegionDummies_yearGapInteraction.tex}
+
+\input{../figures/tables/sec2_mainReg_onlyLACdummy.tex}
+
+\input{../figures/tables/sec2_mainReg_onlyLACdummy_LAClagGapInteraction.tex}
+
+\input{../figures/tables/sec2_mainReg.tex}
+
+\input{../figures/tables/sec2_mainReg_countryDumies_otherCoefs.tex}
+
+\subsubsection{Non-LAC benchmark - with Africa - lag}
+
+\input{../figures/tables/sec2_mainReg_timeDummies_LACinteractionsAll_lagGap.tex}
+
+\subsubsection{Non-LAC benchmark - with Africa - nonlag}
+
+
+\input{../figures/tables/sec2_mainReg_timeDummies_LACinteractionsAll_nonlagGap.tex}
+
+\subsubsection{Non-LAC benchmark - NO AFRICA}
+
+\input{../figures/tables/sec2_mainReg_timeDummies_LACinteractionsAll_noAfrica.tex}
+
+\input{../figures/tables/regionDummyAverages.tex}
+
+\subsubsection{Pre-1990}
+
+\input{../figures/tables/sec2_pre1990.tex} 
+
+
+\subsubsection{Post-1990}
+
+\input{../figures/tables/sec2_post1990.tex}
+
+
+\section{Inequality}
+
+\normalsize
+
+Same regression, but
+\begin{align}
+g_{it} &= \alpha + \gamma_t + \beta_1 \textrm{cgdpo}_{i,t-1} + \beta_2 \textrm{inequality}_{i,t-1} + \beta_3 \textrm{inequality}_{t-1} \times \textrm{cgdpo}_{i,t-1} + \sigma \textrm{LAC}_i
+\end{align}
+
+and see if $\sigma$ becomes zero.
+
+
+\section{Post 1990 analysis}
+
+Finally, need to think about doing all of this with more countries post-1990. Different sample. 
+
+\subsection{Tables}
+
+Question: what benchmarks to use?
+
+\subsection{Regression}
+
+Do same thing -- note that we are missing some data in the beginning, but we don't use it. We only need RGDP relative to the US for the 1990-1996 period. So should be fine. 
+
+
+
+
+
+
+
+
+
+
+\end{document}

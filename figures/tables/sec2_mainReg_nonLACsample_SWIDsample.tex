@@ -1,0 +1,46 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Growth dynamics in non-LAC countries (country-years with gini data)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita      &    0.042         &    -0.31\sym{**} &    -0.27\sym{*}  \\
+output gap (rel. USA)&  (0.098)         &   (0.15)         &   (0.14)         \\
+\addlinespace
+year=1968       &     1.42\sym{***}&     0.68         &     2.11\sym{***}\\
+                &   (0.47)         &   (0.49)         &   (0.73)         \\
+\addlinespace
+year=1975       &     0.83\sym{**} &     0.88\sym{**} &     1.71\sym{***}\\
+                &   (0.35)         &   (0.34)         &   (0.48)         \\
+\addlinespace
+year=1982       &    -0.16         &     1.04\sym{**} &     0.88\sym{**} \\
+                &   (0.29)         &   (0.43)         &   (0.40)         \\
+\addlinespace
+year=1989       &     0.60\sym{**} &     0.18         &     0.78\sym{**} \\
+                &   (0.26)         &   (0.31)         &   (0.38)         \\
+\addlinespace
+year=1996       &     0.27         &    -0.18         &    0.095         \\
+                &   (0.23)         &   (0.30)         &   (0.34)         \\
+\addlinespace
+year=2003       &     0.34         &    -0.26         &    0.081         \\
+                &   (0.40)         &   (0.33)         &   (0.36)         \\
+\addlinespace
+year=2010       &    0.050         &     0.10         &     0.15         \\
+                &   (0.25)         &   (0.24)         &   (0.25)         \\
+\addlinespace
+year=2017       &        0         &        0         &        0         \\
+                &      (.)         &      (.)         &      (.)         \\
+\addlinespace
+Constant        &     0.30         &     1.39\sym{***}&     1.68\sym{***}\\
+                &   (0.22)         &   (0.25)         &   (0.30)         \\
+\midrule
+Observations    &      278         &      278         &      278         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Notes:} Only non-LAC sample.}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

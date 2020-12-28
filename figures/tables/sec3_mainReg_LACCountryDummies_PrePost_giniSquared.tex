@@ -1,0 +1,50 @@
+\begin{sidewaystable}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC individual country growth gaps, pre- and post-1990 (Non-LAC Benchmark)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Gini (disp. inc.)&   -0.100\sym{*}  &     0.34\sym{***}&     0.24\sym{**} \\
+Gini squared (disp. inc.)&  0.00073         &  -0.0040\sym{***}&  -0.0033\sym{**} \\
+Per capita output gap (rel. USA)&    -0.21         &   -0.011         &    -0.22         \\
+ARG $\times$ post1990=0&    -2.03\sym{***}&    -1.60\sym{***}&    -3.63\sym{***}\\
+ARG $\times$ post1990=1&     0.45\sym{***}&    -0.90\sym{***}&    -0.45         \\
+BRA $\times$ post1990=0&     0.49\sym{**} &    -0.39         &    0.094         \\
+BRA $\times$ post1990=1&    -0.79\sym{***}&    -0.19         &    -0.98\sym{**} \\
+BRB $\times$ post1990=0&    -0.26         &     0.13         &    -0.13         \\
+BRB $\times$ post1990=1&    -0.59\sym{***}&    -1.04\sym{***}&    -1.64\sym{***}\\
+CHL $\times$ post1990=0&    -0.78\sym{***}&    -1.46\sym{***}&    -2.25\sym{***}\\
+CHL $\times$ post1990=1&     0.14         &     1.25\sym{***}&     1.39\sym{***}\\
+COL $\times$ post1990=0&   -0.020         &    -0.83\sym{*}  &    -0.85         \\
+COL $\times$ post1990=1&   -0.084         &     0.34         &     0.25         \\
+CRI $\times$ post1990=0&    -0.54\sym{**} &    -1.09\sym{***}&    -1.63\sym{***}\\
+CRI $\times$ post1990=1&     0.42\sym{***}&    -0.18         &     0.24         \\
+DOM $\times$ post1990=0&        0         &        0         &        0         \\
+DOM $\times$ post1990=1&     0.36\sym{***}&     0.84\sym{***}&     1.20\sym{***}\\
+ECU $\times$ post1990=0&        0         &        0         &        0         \\
+ECU $\times$ post1990=1&    0.100         &    -0.95\sym{***}&    -0.85\sym{**} \\
+GTM $\times$ post1990=0&    -0.73\sym{***}&    -3.02\sym{***}&    -3.75\sym{***}\\
+GTM $\times$ post1990=1&   -0.073         &    -0.67\sym{**} &    -0.74\sym{**} \\
+JAM $\times$ post1990=0&        0         &        0         &        0         \\
+JAM $\times$ post1990=1&    -0.36\sym{**} &    -1.67\sym{***}&    -2.03\sym{***}\\
+MEX $\times$ post1990=0&    -1.54\sym{***}&     0.18         &    -1.36\sym{**} \\
+MEX $\times$ post1990=1&    -0.36\sym{**} &    -0.60\sym{**} &    -0.96\sym{**} \\
+PER $\times$ post1990=0&    -2.66\sym{***}&    -1.95\sym{***}&    -4.61\sym{***}\\
+PER $\times$ post1990=1&     0.25         &     0.57\sym{*}  &     0.83\sym{*}  \\
+TTO $\times$ post1990=0&    -2.61\sym{***}&    -0.76         &    -3.37\sym{***}\\
+TTO $\times$ post1990=1&     2.43\sym{***}&    -0.25         &     2.18\sym{***}\\
+URY $\times$ post1990=0&    -0.84\sym{***}&    -1.02\sym{***}&    -1.85\sym{***}\\
+URY $\times$ post1990=1&     0.90\sym{***}&    -0.68\sym{***}&     0.22         \\
+nonLAC $\times$ post1990=0&        0         &        0         &        0         \\
+nonLAC $\times$ post1990=1&        0         &        0         &        0         \\
+Constant        &     2.60\sym{**} &    -5.22\sym{***}&    -2.62         \\
+\midrule
+Observations    &      359         &      359         &      359         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \omega_{i\tau} + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize Variable \(\tau\) is equal to 1 if \(t > 1990\), 0 otherwise. Estimated values of \(\omega_{i\tau}\) for each country \(i\) shown above.}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{sidewaystable}

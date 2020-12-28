@@ -1,0 +1,51 @@
+\begin{sidewaystable}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Growth dynamics worldwide}
+\begin{tabular}{l*{3}{c}}
+\hline\hline
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\hline
+Gini (mkt. inc.)&    -0.17\sym{*}  &    -0.10         &    -0.27         \\
+                &  (0.092)         &   (0.13)         &   (0.20)         \\
+[1em]
+Gini squared    &   0.0013         &  0.00072         &   0.0020         \\
+(mkt. inc.)     &(0.00090)         & (0.0013)         & (0.0020)         \\
+[1em]
+Per capita      &    0.054         &    -0.27\sym{*}  &    -0.22         \\
+output gap (rel. USA)&  (0.096)         &   (0.14)         &   (0.13)         \\
+[1em]
+year=1968       &     1.31\sym{***}&     0.17         &     1.48\sym{***}\\
+                &   (0.38)         &   (0.40)         &   (0.54)         \\
+[1em]
+year=1975       &     0.30         &     0.80\sym{**} &     1.11\sym{*}  \\
+                &   (0.40)         &   (0.32)         &   (0.56)         \\
+[1em]
+year=1982       &    -0.58\sym{**} &     0.98\sym{**} &     0.40         \\
+                &   (0.27)         &   (0.39)         &   (0.37)         \\
+[1em]
+year=1989       &    0.063         &    -0.23         &    -0.16         \\
+                &   (0.25)         &   (0.29)         &   (0.40)         \\
+[1em]
+year=1996       &     0.24         &    -0.35         &    -0.10         \\
+                &   (0.22)         &   (0.25)         &   (0.30)         \\
+[1em]
+year=2003       &     0.14         &    -0.22         &   -0.082         \\
+                &   (0.34)         &   (0.26)         &   (0.31)         \\
+[1em]
+year=2010       &     0.19         &     0.19         &     0.38         \\
+                &   (0.22)         &   (0.20)         &   (0.24)         \\
+[1em]
+year=2017       &        0         &        0         &        0         \\
+                &      (.)         &      (.)         &      (.)         \\
+[1em]
+Constant        &     5.33\sym{**} &     4.65         &     9.98\sym{*}  \\
+                &   (2.34)         &   (3.41)         &   (5.10)         \\
+\hline
+Observations    &      359         &      359         &      359         \\
+\hline\hline
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{sidewaystable}

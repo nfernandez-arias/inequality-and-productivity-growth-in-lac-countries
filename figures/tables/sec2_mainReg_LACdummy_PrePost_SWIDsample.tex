@@ -1,0 +1,51 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC growth gap, pre- and post-1990 (Non-LAC Benchmark, country-years with gini data)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita      &    0.033         &    -0.26\sym{*}  &    -0.23\sym{*}  \\
+output gap (rel. USA)&  (0.095)         &   (0.15)         &   (0.14)         \\
+\addlinespace
+LAC $\times$ pre&    -1.48\sym{***}&    -0.60\sym{*}  &    -2.07\sym{***}\\
+1990            &   (0.36)         &   (0.35)         &   (0.54)         \\
+\addlinespace
+LAC $\times$    &    -0.21         &    0.041         &    -0.17         \\
+post 1990       &   (0.23)         &   (0.28)         &   (0.37)         \\
+\addlinespace
+year=1968       &     1.82\sym{***}&     0.44         &     2.26\sym{***}\\
+                &   (0.44)         &   (0.43)         &   (0.60)         \\
+\addlinespace
+year=1975       &     0.82\sym{**} &     1.09\sym{***}&     1.91\sym{***}\\
+                &   (0.37)         &   (0.32)         &   (0.52)         \\
+\addlinespace
+year=1982       &    -0.15         &     1.21\sym{***}&     1.06\sym{**} \\
+                &   (0.28)         &   (0.40)         &   (0.41)         \\
+\addlinespace
+year=1989       &     0.52\sym{**} &    0.021         &     0.54         \\
+                &   (0.24)         &   (0.31)         &   (0.38)         \\
+\addlinespace
+year=1996       &     0.35         &    -0.28         &    0.066         \\
+                &   (0.21)         &   (0.25)         &   (0.28)         \\
+\addlinespace
+year=2003       &     0.16         &    -0.20         &   -0.044         \\
+                &   (0.34)         &   (0.27)         &   (0.31)         \\
+\addlinespace
+year=2010       &     0.18         &     0.19         &     0.37         \\
+                &   (0.22)         &   (0.20)         &   (0.23)         \\
+\addlinespace
+year=2017       &        0         &        0         &        0         \\
+                &      (.)         &      (.)         &      (.)         \\
+\addlinespace
+Constant        &     0.28         &     1.43\sym{***}&     1.71\sym{***}\\
+                &   (0.20)         &   (0.22)         &   (0.27)         \\
+\midrule
+Observations    &      359         &      359         &      359         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \sigma_1 \mathbf{1}_{\textrm{LAC,pre1990}} + \sigma_2 \mathbf{1}_{\textrm{LAC,post1990}} + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

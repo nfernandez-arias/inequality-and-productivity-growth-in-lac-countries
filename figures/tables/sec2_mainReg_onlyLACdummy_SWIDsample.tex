@@ -1,0 +1,48 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC growth gap (Non-LAC Benchmark, country-years with gini data)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita      &    0.041         &    -0.26\sym{*}  &    -0.22         \\
+output gap (rel. USA)&  (0.094)         &   (0.15)         &   (0.14)         \\
+\addlinespace
+LAC             &    -0.62\sym{***}&    -0.17         &    -0.78\sym{***}\\
+                &   (0.17)         &   (0.24)         &   (0.29)         \\
+\addlinespace
+year=1968       &     1.50\sym{***}&     0.28         &     1.79\sym{***}\\
+                &   (0.38)         &   (0.42)         &   (0.56)         \\
+\addlinespace
+year=1975       &     0.53         &     0.94\sym{***}&     1.47\sym{***}\\
+                &   (0.37)         &   (0.30)         &   (0.53)         \\
+\addlinespace
+year=1982       &    -0.43         &     1.07\sym{***}&     0.64\sym{*}  \\
+                &   (0.27)         &   (0.38)         &   (0.37)         \\
+\addlinespace
+year=1989       &     0.23         &    -0.12         &     0.11         \\
+                &   (0.25)         &   (0.29)         &   (0.40)         \\
+\addlinespace
+year=1996       &     0.37\sym{*}  &    -0.27         &    0.099         \\
+                &   (0.21)         &   (0.25)         &   (0.29)         \\
+\addlinespace
+year=2003       &     0.17         &    -0.20         &   -0.025         \\
+                &   (0.34)         &   (0.27)         &   (0.31)         \\
+\addlinespace
+year=2010       &     0.19         &     0.19         &     0.39         \\
+                &   (0.22)         &   (0.20)         &   (0.23)         \\
+\addlinespace
+year=2017       &        0         &        0         &        0         \\
+                &      (.)         &      (.)         &      (.)         \\
+\addlinespace
+Constant        &     0.37\sym{*}  &     1.48\sym{***}&     1.84\sym{***}\\
+                &   (0.20)         &   (0.22)         &   (0.27)         \\
+\midrule
+Observations    &      359         &      359         &      359         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \sigma \mathbf{1}_{\textrm{LAC}} + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

@@ -1,0 +1,176 @@
+\documentclass[12pt,english]{article}
+\usepackage{lmodern}
+\linespread{1.05}
+%\usepackage{mathpazo}
+%\usepackage{mathptmx}
+%\usepackage{utopia}
+\usepackage{microtype}
+\usepackage{placeins}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+%\usepackage[table]{xcolor}
+\usepackage{colortbl}
+\usepackage{geometry}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{svg}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{blindtext}
+%\renewcommand{\arraystretch}{1.2}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{threeparttable}
+% TikZ stuff
+
+\usepackage{tikz}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{cancel}
+\usepackage{color}
+\usepackage{siunitx}
+
+
+\usepackage{array}
+\newcolumntype{x}[1]{>{\raggedleft\arraybackslash\hspace{0pt}}p{#1}}
+
+\usepackage{amssymb}
+%\usepackage{textcomp}
+\usepackage{gensymb}
+\usepackage{tabularx}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{shadows.blur}
+
+\usepackage{rotating}
+
+%\usepackage{caption}
+%\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\usepackage{courier}
+\usepackage{verbatim}
+\usepackage[round]{natbib}
+\bibliographystyle{plainnat}
+
+\definecolor{red1}{RGB}{128,0,0}
+%\geometry{verbose,tmargin=1.25in,bmargin=1.25in,lmargin=1.25in,rmargin=1.25in}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{setspace}
+
+\usepackage[colorlinks=true, linkcolor={red!70!black}, citecolor={blue!50!black}, urlcolor={blue!80!black}]{hyperref}
+%\usepackage{esint}
+\onehalfspacing
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+\begin{document}
+	
+\title{Figures}
+%\author{Nicolas Fernandez-Arias}
+\maketitle
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/rgdpGrowth_LACmean.pdf}
+	\caption{Mean growth in output per capita across LAC countries during the sample period, annual and in 7-year periods.}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/rgdpGrowth_LACmedian.pdf}
+	\caption{Median growth in output per capita across LAC countries during the sample period, annual and in 7-year periods.}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/rgdpnaGrowth_LAC_countryCases.pdf}
+	\caption{Output per capita growth experience of LAC countries compared to LAC mean.}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/cumulativeGrowthDecomposition_LAC_barplot.pdf}
+	\caption{Decomposition of average growth in output per capita in LAC countries into productivity growth and factor accumulation.}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/cumulativeGrowthDecomposition_LAC_barplot_post1990.pdf}
+	\caption{Decomposition of average growth in RGDP per capita in LAC countries into productivity growth and factor accumulation (post 1990 sample).}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale = 0.8]{../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf}
+	\caption{Scatter plot showing decomposition of average per capita output growth from 1960-2017 into productivity growth and factor accumulation, with points color-coded by region. Points above (below) the dashed 45 degree line grew mostly due to non-TFP (TFP).}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale = 0.8]{../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf}
+	\caption{Scatter plot showing decomposition of average per capita output growth from 1990-2017 into productivity growth and factor accumulation, with points color-coded by region. Points above (below) the dashed 45 degree line grew mostly due to non-TFP (TFP).}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/lacCountriesPrePost1990Gaps_rollingWindows.pdf}
+	\caption{Scatterplot showing the pre- and post-1990 gaps in the LAC country dummy regressions.}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=1]{../figures/LAC_Country_Dummmies_Decomposition_rollingWindows.pdf}
+	\caption{Decomposition of LAC per capita output growth gaps into gaps in productivity growth and gaps in factor accumulation.}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/tfpRegs_cgdpGap_annual_LACresiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/nontfpRegs_cgdpGap_annual_LACresiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_LACresiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+
+
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}[ht]
+	\includegraphics[scale=0.75]{../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf}
+	\caption{}
+\end{sidewaysfigure}
+
+
+
+
+
+
+\end{document}
