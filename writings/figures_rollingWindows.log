@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.13)  27 DEC 2020 15:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.13)  30 DEC 2020 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1211,27 +1211,27 @@ LaTeX Warning: No \author given.
 File: ../figures/rgdpGrowth_LACmean.pdf Graphic file (type pdf)
 <use ../figures/rgdpGrowth_LACmean.pdf>
 Package pdftex.def Info: ../figures/rgdpGrowth_LACmean.pdf  used on input line 
-77.
+78.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
 <../figures/rgdpGrowth_LACmedian.pdf, id=32, 650.43pt x 469.755pt>
 File: ../figures/rgdpGrowth_LACmedian.pdf Graphic file (type pdf)
 <use ../figures/rgdpGrowth_LACmedian.pdf>
 Package pdftex.def Info: ../figures/rgdpGrowth_LACmedian.pdf  used on input lin
-e 82.
+e 84.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
-<../figures/rgdpnaGrowth_LAC_countryCases.pdf, id=33, 650.43pt x 469.755pt>
+<../figures/rgdpnaGrowth_LAC_countryCases.pdf, id=33, 867.24pt x 650.43pt>
 File: ../figures/rgdpnaGrowth_LAC_countryCases.pdf Graphic file (type pdf)
 <use ../figures/rgdpnaGrowth_LAC_countryCases.pdf>
 Package pdftex.def Info: ../figures/rgdpnaGrowth_LAC_countryCases.pdf  used on 
-input line 87.
-(pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
+input line 90.
+(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
 <../figures/cumulativeGrowthDecomposition_LAC_barplot.pdf, id=34, 650.43pt x 46
 9.755pt>
 File: ../figures/cumulativeGrowthDecomposition_LAC_barplot.pdf Graphic file (ty
 pe pdf)
 <use ../figures/cumulativeGrowthDecomposition_LAC_barplot.pdf>
 Package pdftex.def Info: ../figures/cumulativeGrowthDecomposition_LAC_barplot.p
-df  used on input line 92.
+df  used on input line 96.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
 <../figures/cumulativeGrowthDecomposition_LAC_barplot_post1990.pdf, id=35, 650.
 43pt x 469.755pt>
@@ -1239,7 +1239,7 @@ File: ../figures/cumulativeGrowthDecomposition_LAC_barplot_post1990.pdf Graphic
  file (type pdf)
 <use ../figures/cumulativeGrowthDecomposition_LAC_barplot_post1990.pdf>
 Package pdftex.def Info: ../figures/cumulativeGrowthDecomposition_LAC_barplot_p
-ost1990.pdf  used on input line 97.
+ost1990.pdf  used on input line 102.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
 <../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf, id=36, 650.43pt x 505.
 89pt>
@@ -1247,7 +1247,7 @@ File: ../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf Graphic file (type
  pdf)
 <use ../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf>
 Package pdftex.def Info: ../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf
-  used on input line 102.
+  used on input line 108.
 (pdftex.def)             Requested size: 520.3447pt x 404.71254pt.
 <../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf, id=37, 650.43
 pt x 505.89pt>
@@ -1255,97 +1255,102 @@ File: ../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf Graphic f
 ile (type pdf)
 <use ../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf>
 Package pdftex.def Info: ../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_pos
-t1990.pdf  used on input line 107.
+t1990.pdf  used on input line 114.
 (pdftex.def)             Requested size: 520.3447pt x 404.71254pt.
-<../figures/lacCountriesPrePost1990Gaps_rollingWindows.pdf, id=38, 650.43pt x 4
-69.755pt>
-File: ../figures/lacCountriesPrePost1990Gaps_rollingWindows.pdf Graphic file (t
-ype pdf)
-<use ../figures/lacCountriesPrePost1990Gaps_rollingWindows.pdf>
-Package pdftex.def Info: ../figures/lacCountriesPrePost1990Gaps_rollingWindows.
-pdf  used on input line 112.
+<../figures/lacCountriesPrePost1990Gaps_LACPrePost1990regression_rollingWindows
+.pdf, id=38, 650.43pt x 469.755pt>
+File: ../figures/lacCountriesPrePost1990Gaps_LACPrePost1990regression_rollingWi
+ndows.pdf Graphic file (type pdf)
+<use ../figures/lacCountriesPrePost1990Gaps_LACPrePost1990regression_rollingWin
+dows.pdf>
+Package pdftex.def Info: ../figures/lacCountriesPrePost1990Gaps_LACPrePost1990r
+egression_rollingWindows.pdf  used on input line 120.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
-<../figures/LAC_Country_Dummmies_Decomposition_rollingWindows.pdf, id=39, 650.4
-3pt x 469.755pt>
-File: ../figures/LAC_Country_Dummmies_Decomposition_rollingWindows.pdf Graphic 
-file (type pdf)
-<use ../figures/LAC_Country_Dummmies_Decomposition_rollingWindows.pdf>
-Package pdftex.def Info: ../figures/LAC_Country_Dummmies_Decomposition_rollingW
-indows.pdf  used on input line 117.
+<../figures/lacCountriesGaps_LACDummyregression_rollingWindows.pdf, id=39, 650.
+43pt x 469.755pt>
+File: ../figures/lacCountriesGaps_LACDummyregression_rollingWindows.pdf Graphic
+ file (type pdf)
+<use ../figures/lacCountriesGaps_LACDummyregression_rollingWindows.pdf>
+Package pdftex.def Info: ../figures/lacCountriesGaps_LACDummyregression_rolling
+Windows.pdf  used on input line 126.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
-<../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf, id=40, 867.24pt x 650.
-43pt>
-File: ../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf Graphic file (type
- pdf)
-<use ../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf>
-Package pdftex.def Info: ../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf
-  used on input line 122.
+<../figures/LAC_nonLAC_gaps_plots.pdf, id=40, 867.24pt x 650.43pt>
+File: ../figures/LAC_nonLAC_gaps_plots.pdf Graphic file (type pdf)
+<use ../figures/LAC_nonLAC_gaps_plots.pdf>
+Package pdftex.def Info: ../figures/LAC_nonLAC_gaps_plots.pdf  used on input li
+ne 133.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf, id=41, 867.24pt x 6
-50.43pt>
-File: ../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf Graphic file (t
-ype pdf)
-<use ../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf>
-Package pdftex.def Info: ../figures/nontfpRegs_cgdpGap_annual_countryResiduals.
-pdf  used on input line 127.
-(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf, id=42, 867
+<../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf, id=41, 867
 .24pt x 650.43pt>
 File: ../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf Graphi
 c file (type pdf)
 <use ../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf>
 Package pdftex.def Info: ../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryR
-esiduals.pdf  used on input line 132.
+esiduals.pdf  used on input line 139.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/tfpRegs_cgdpGap_annual_LACresiduals.pdf, id=43, 867.24pt x 650.43pt
->
-File: ../figures/tfpRegs_cgdpGap_annual_LACresiduals.pdf Graphic file (type pdf
-)
-<use ../figures/tfpRegs_cgdpGap_annual_LACresiduals.pdf>
-Package pdftex.def Info: ../figures/tfpRegs_cgdpGap_annual_LACresiduals.pdf  us
-ed on input line 139.
+<../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf, id=42, 867.24pt x 650.
+43pt>
+File: ../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf Graphic file (type
+ pdf)
+<use ../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf>
+Package pdftex.def Info: ../figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf
+  used on input line 145.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/nontfpRegs_cgdpGap_annual_LACresiduals.pdf, id=44, 867.24pt x 650.4
-3pt>
-File: ../figures/nontfpRegs_cgdpGap_annual_LACresiduals.pdf Graphic file (type 
-pdf)
-<use ../figures/nontfpRegs_cgdpGap_annual_LACresiduals.pdf>
-Package pdftex.def Info: ../figures/nontfpRegs_cgdpGap_annual_LACresiduals.pdf 
- used on input line 144.
+<../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf, id=43, 867.24pt x 6
+50.43pt>
+File: ../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf Graphic file (t
+ype pdf)
+<use ../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf>
+Package pdftex.def Info: ../figures/nontfpRegs_cgdpGap_annual_countryResiduals.
+pdf  used on input line 151.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_LACresiduals.pdf, id=45, 867.24p
+<../figures/rgdpnaPerCapitaRegs_countryGaps_adjustedByGinis.pdf, id=44, 867.24p
 t x 650.43pt>
-File: ../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_LACresiduals.pdf Graphic fi
+File: ../figures/rgdpnaPerCapitaRegs_countryGaps_adjustedByGinis.pdf Graphic fi
 le (type pdf)
-<use ../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_LACresiduals.pdf>
-Package pdftex.def Info: ../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_LACresid
-uals.pdf  used on input line 149.
+<use ../figures/rgdpnaPerCapitaRegs_countryGaps_adjustedByGinis.pdf>
+Package pdftex.def Info: ../figures/rgdpnaPerCapitaRegs_countryGaps_adjustedByG
+inis.pdf  used on input line 161.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf, id=46
-, 867.24pt x 650.43pt>
-File: ../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf G
-raphic file (type pdf)
-<use ../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf>
-Package pdftex.def Info: ../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_cou
-ntryResiduals.pdf  used on input line 157.
-(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf, id
-=47, 867.24pt x 650.43pt>
-File: ../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pd
-f Graphic file (type pdf)
-<use ../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf
+<../figures/tfpRegs_countryGaps_adjustedByGinis.pdf, id=45, 867.24pt x 650.43pt
 >
-Package pdftex.def Info: ../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_
-countryResiduals.pdf  used on input line 162.
+File: ../figures/tfpRegs_countryGaps_adjustedByGinis.pdf Graphic file (type pdf
+)
+<use ../figures/tfpRegs_countryGaps_adjustedByGinis.pdf>
+Package pdftex.def Info: ../figures/tfpRegs_countryGaps_adjustedByGinis.pdf  us
+ed on input line 167.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryResidual
-s.pdf, id=48, 867.24pt x 650.43pt>
-File: ../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryRes
-iduals.pdf Graphic file (type pdf)
-<use ../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryResi
-duals.pdf>
-Package pdftex.def Info: ../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMk
-t_annual_countryResiduals.pdf  used on input line 167.
+<../figures/nontfpRegs_countryGaps_adjustedByGinis.pdf, id=46, 867.24pt x 650.4
+3pt>
+File: ../figures/nontfpRegs_countryGaps_adjustedByGinis.pdf Graphic file (type 
+pdf)
+<use ../figures/nontfpRegs_countryGaps_adjustedByGinis.pdf>
+Package pdftex.def Info: ../figures/nontfpRegs_countryGaps_adjustedByGinis.pdf 
+ used on input line 173.
+(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
+<../figures/rgdpnaPerCapitaRegs_countryGaps_giniAdjustments.pdf, id=47, 867.24p
+t x 650.43pt>
+File: ../figures/rgdpnaPerCapitaRegs_countryGaps_giniAdjustments.pdf Graphic fi
+le (type pdf)
+<use ../figures/rgdpnaPerCapitaRegs_countryGaps_giniAdjustments.pdf>
+Package pdftex.def Info: ../figures/rgdpnaPerCapitaRegs_countryGaps_giniAdjustm
+ents.pdf  used on input line 181.
+(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
+<../figures/tfpRegs_countryGaps_giniAdjustments.pdf, id=48, 867.24pt x 650.43pt
+>
+File: ../figures/tfpRegs_countryGaps_giniAdjustments.pdf Graphic file (type pdf
+)
+<use ../figures/tfpRegs_countryGaps_giniAdjustments.pdf>
+Package pdftex.def Info: ../figures/tfpRegs_countryGaps_giniAdjustments.pdf  us
+ed on input line 187.
+(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
+<../figures/nontfpRegs_countryGaps_giniAdjustments.pdf, id=49, 867.24pt x 650.4
+3pt>
+File: ../figures/nontfpRegs_countryGaps_giniAdjustments.pdf Graphic file (type 
+pdf)
+<use ../figures/nontfpRegs_countryGaps_giniAdjustments.pdf>
+Package pdftex.def Info: ../figures/nontfpRegs_countryGaps_giniAdjustments.pdf 
+ used on input line 193.
 (pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
 [1
 
@@ -1354,41 +1359,42 @@ LACmean.pdf>] [3 <../figures/rgdpGrowth_LACmedian.pdf>] [4 <../figures/rgdpnaGr
 owth_LAC_countryCases.pdf>] [5 <../figures/cumulativeGrowthDecomposition_LAC_ba
 rplot.pdf>] [6 <../figures/cumulativeGrowthDecomposition_LAC_barplot_post1990.p
 df>] [7 <../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf>] [8 <../figure
-s/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf>] [9 <../figures/lacCoun
-triesPrePost1990Gaps_rollingWindows.pdf>] [10 <../figures/LAC_Country_Dummmies_
-Decomposition_rollingWindows.pdf>] [11 <../figures/tfpRegs_cgdpGap_annual_count
-ryResiduals.pdf>] [12 <../figures/nonTfpRegs_cgdpGap_annual_countryResiduals.pd
-f>] [13 <../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf>] [
-14 <../figures/tfpRegs_cgdpGap_annual_LACresiduals.pdf>] [15 <../figures/nonTfp
-Regs_cgdpGap_annual_LACresiduals.pdf>] [16 <../figures/rgdpnaPerCapitaRegs_cgdp
-Gap_annual_LACresiduals.pdf>] [17 <../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_
-annual_countryResiduals.pdf>] [18 <../figures/nontfpRegs_cgdpGap_giniDisp_giniM
-kt_annual_countryResiduals.pdf>] [19 <../figures/rgdpnaPerCapitaRegs_cgdpGap_gi
-niDisp_giniMkt_annual_countryResiduals.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
- (./figures_rollingWindows.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
+s/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf>] [9 <../figures/LACCoun
+triesPrePost1990Gaps_LACPrePost1990regression_rollingWindows.pdf>] [10 <../figu
+res/lacCountriesGaps_LACDummyregression_rollingWindows.pdf>] [11 <../figures/LA
+C_nonLAC_gaps_plots.pdf>] [12 <../figures/rgdpnaPerCapitaRegs_cgdpGap_annual_co
+untryResiduals.pdf>] [13 <../figures/tfpRegs_cgdpGap_annual_countryResiduals.pd
+f>] [14 <../figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf>] [15 <../fi
+gures/rgdpnaPerCapitaRegs_countryGaps_adjustedByGinis.pdf>] [16 <../figures/tfp
+Regs_countryGaps_adjustedByGinis.pdf>] [17 <../figures/nontfpRegs_countryGaps_a
+djustedByGinis.pdf>] [18 <../figures/rgdpnaPerCapitaRegs_countryGaps_giniAdjust
+ments.pdf>] [19 <../figures/tfpRegs_countryGaps_giniAdjustments.pdf>]
+[20 <../figures/nontfpRegs_countryGaps_giniAdjustments.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+
+(./figures_rollingWindows.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
 Package rerunfilecheck Info: File `figures_rollingWindows.out' has not changed.
 
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 176.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 26118 strings out of 481239
- 514772 string characters out of 5920377
- 809947 words of memory out of 5000000
- 40714 multiletter control sequences out of 15000+600000
+ 26127 strings out of 481239
+ 514828 string characters out of 5920377
+ 809951 words of memory out of 5000000
+ 40720 multiletter control sequences out of 15000+600000
  588163 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,9n,81p,427b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,9n,81p,427b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on figures_rollingWindows.pdf (19 pages, 194783 bytes).
+Output written on figures_rollingWindows.pdf (20 pages, 264834 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
- 38 named destinations out of 1000 (max. 500000)
- 23239 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 295 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 23244 words of extra memory for PDF output out of 24883 (max. 10000000)
 

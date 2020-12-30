@@ -1,4 +1,4 @@
-\begin{sidewaystable}[htbp]\centering
+\begin{table}[htbp]\centering
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
 \caption{Statistical significance of LAC individual country growth gaps (Non-LAC Benchmark)}
 \begin{tabular}{l*{3}{c}}
@@ -6,28 +6,27 @@
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
                 &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
 \midrule
-Gini (disp. inc.)&   -0.052\sym{***}&    0.035         &   -0.016         \\
-Per capita output gap (rel. USA)&    -0.16         &   0.0019         &    -0.15         \\
-ARG             &    -0.60\sym{***}&    -0.79\sym{***}&    -1.38\sym{***}\\
-BRA             &     0.26         &    -0.30         &   -0.046         \\
-BRB             &    -0.46\sym{**} &    -0.38         &    -0.84         \\
-CHL             &    -0.17         &     0.29         &     0.12         \\
-COL             &     0.27         &    -0.32         &   -0.057         \\
-CRI             &   -0.020         &    -0.19         &    -0.21         \\
-DOM             &   0.0024         &     0.80\sym{**} &     0.80\sym{*}  \\
-ECU             &   -0.045         &    -0.82\sym{**} &    -0.87\sym{**} \\
-GTM             &    -0.15         &    -1.24\sym{***}&    -1.40\sym{***}\\
-JAM             &    -0.18         &    -1.25\sym{***}&    -1.43\sym{***}\\
-MEX             &    -0.73\sym{***}&   -0.025         &    -0.76         \\
-PER             &    -0.49\sym{**} &    -0.52         &    -1.01\sym{*}  \\
-TTO             &    -0.43\sym{***}&  -0.0046         &    -0.44         \\
-URY             &     0.23\sym{**} &    -0.20         &    0.026         \\
-Constant        &     2.01\sym{***}&     0.20         &     2.21\sym{**} \\
+Gini (disp. inc.)&   -0.058\sym{***}&    0.045         &   -0.013         \\
+Per capita output gap (rel. USA)&    -0.27\sym{*}  &    0.022         &    -0.25         \\
+ARG             &    -0.66\sym{***}&    -0.91\sym{***}&    -1.57\sym{***}\\
+BRA             &     0.27         &    -0.54         &    -0.27         \\
+BRB             &    -0.70\sym{***}&    -0.35         &    -1.05\sym{**} \\
+CHL             &    0.056         &     0.19         &     0.25         \\
+COL             &     0.28         &    -0.44         &    -0.16         \\
+CRI             &   -0.057         &    -0.34         &    -0.39         \\
+DOM             &     0.39\sym{**} &     0.72\sym{*}  &     1.12\sym{**} \\
+ECU             &     0.12         &    -0.96\sym{**} &    -0.84\sym{*}  \\
+GTM             &   -0.044         &    -1.32\sym{***}&    -1.36\sym{***}\\
+JAM             &    -0.52\sym{***}&    -1.53\sym{***}&    -2.05\sym{***}\\
+MEX             &    -0.69\sym{***}&    -0.26         &    -0.94\sym{*}  \\
+PER             &    -0.41\sym{*}  &    -0.72         &    -1.12\sym{*}  \\
+TTO             &   -0.025         &    -0.44         &    -0.46         \\
+URY             &     0.66\sym{***}&    -0.45\sym{*}  &     0.21         \\
 \midrule
-Observations    &     2542         &     2542         &     2542         \\
+Observations    &     2234         &     2234         &     2234         \\
 \bottomrule
 \multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha  + \omega_i + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
 \multicolumn{4}{l}{\footnotesize Estimated values of \(\omega_i\) for each country \(i\) shown above.}\\
 \multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
 \end{tabular}
-\end{sidewaystable}
+\end{table}

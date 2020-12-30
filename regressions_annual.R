@@ -28,6 +28,7 @@ temp[ , V1 := mean(na.omit(V1)), by = .(isLAC, year)]
 
 temp2 <- data[ , mean(lrtfpna_chg7), by = .(isLAC,year)]
 
+rtfpModelSimple <- lm(lrtfpna_chg7 ~ lcgdpoPerCapita_gap_avg7 + factor(year), data)
 rtfpModelSimple <- plm(lrtfpna_chg7 ~ lcgdpoPerCapita_gap_avg7, data, effect = "time", model = "within")
 rtfpModelSimpleCoefs <- cbind(names(coefficients(rtfpModelSimple)),data.table(summary(rtfpModelSimple)$coefficients))[3:51]
 rtfpModelSimpleCoefs[ , V1 := substr(V1,13,16)]
@@ -40,9 +41,9 @@ ggplot(data, aes(x = year, y = rtfpModelSimpleResidAvg, linetype = factor(isLAC)
 
 # Adjusting for stage of development 
 
-rtfpModel <- plm(lrtfpna_chg7 ~ lcgdpoPerCapita_gap_avg7 + countryLAC, data, effect = "time", model = "within")
-nonTfpModel <- plm(lrgdpnaPerCapita_chg7_nonTFP ~ lcgdpoPerCapita_gap_avg7 + countryLAC, data, effect = "time", model = "within")
-rgdpnaPerCapitaModel <- plm(lrgdpnaPerCapita_chg7 ~ lcgdpoPerCapita_gap_avg7 + countryLAC, data, effect = "time", model = "within")
+rtfpModel <- plm(lrtfpna_chg7 ~ lcgdpoPerCapita_gap_avg7 + countryLAC, data, index = c("alpha3","year"), effect = "time", model = "within")
+nonTfpModel <- plm(lrgdpnaPerCapita_chg7_nonTFP ~ lcgdpoPerCapita_gap_avg7 + countryLAC, data, index = c("alpha3","year"), effect = "time", model = "within")
+rgdpnaPerCapitaModel <- plm(lrgdpnaPerCapita_chg7 ~ lcgdpoPerCapita_gap_avg7 + countryLAC, data, index = c("alpha3","year"), effect = "time", model = "within")
 
 rtfpModelCoefs <- cbind(names(coefficients(rtfpModel)),data.table(summary(rtfpModel)$coefficients))[2:.N]
 nonTfpModelCoefs <- cbind(names(coefficients(nonTfpModel)),data.table(summary(nonTfpModel)$coefficients))[2:.N]
@@ -84,7 +85,7 @@ data[ , rtfpModelResidAvg := mean(na.omit(rtfpModelResidAvg)), by = .(isLAC,year
 
 data[ , rtfpModelResidDummyAvg := mean(na.omit(rtfpModelResid)), by = .(isLAC,year)]
 
-data[ , ]
+ggplot(data, aes(x = year, y = rtfpModelResidDummyAvg, linetype = factor(isLAC))) + geom_line()
 
 ggplot(data[subRegion_new == "Latin America and the Caribbean"], aes(x = year, y = rtfpModelResid)) + 
   geom_line() + 
@@ -157,7 +158,7 @@ ggplot(LACseries, aes(x = year)) +
 
 setkey(data,alpha3,year)
 
-rtfpModelGini <- plm(lrtfpna_chg7 ~ lcgdpoPerCapita_gap_avg7 + gini_disp + gini_mkt + countryLAC, data2, effect = "time", model = "within", index = c("alpha3","year"))
+rtfpModelGini <- plm(lrtfpna_chg7 ~ lcgdpoPerCapita_gap_avg7 + gini_disp + gini_mkt + countryLAC, data, effect = "time", model = "within", index = c("alpha3","year"))
 nonTfpModelGini <- plm(lrgdpnaPerCapita_chg7_nonTFP ~ lcgdpoPerCapita_gap_avg7 + gini_disp + gini_mkt + countryLAC, data, effect = "time", model = "within", index = c("alpha3","year"))
 rgdpnaPerCapitaModelGini <- plm(lrgdpnaPerCapita_chg7 ~ lcgdpoPerCapita_gap_avg7 + gini_disp + gini_mkt + countryLAC, data, effect = "time", model = "within", index = c("alpha3","year"))
 
@@ -259,3 +260,4 @@ ggplot(data[subRegion_new == "Latin America and the Caribbean"], aes(x = year, y
   theme(legend.position = "bottom") + 
   facet_wrap(~alpha3) + 
   ggsave("figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf", width = 12, height = 9, units = "in")
+

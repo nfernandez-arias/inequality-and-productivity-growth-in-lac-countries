@@ -217,8 +217,8 @@
   pwt[ , gini_mkt_chg1 := gini_mkt - shift(gini_mkt), by = country]
   pwt[ , lcgdpoPerCapita_gap_chg1 := 100 * (lcgdpoPerCapita_gap - shift(lcgdpoPerCapita_gap)), by = country]
   
-  pwt[ , gini_disp_avg7 := Reduce(`+`,shift(gini_disp,n= 0L:6L,type = "lag"))/7, by = "countrycode"]
-  pwt[ , gini_mkt_avg7 := Reduce(`+`,shift(gini_mkt,n= 0L:6L,type = "lag"))/7, by = "countrycode"]
+  pwt[ , gini_disp_avg7 := Reduce(`+`,shift(gini_disp,n= 0L:6L,type = "lag"))/7, by = "alpha3"]
+  pwt[ , gini_mkt_avg7 := Reduce(`+`,shift(gini_mkt,n= 0L:6L,type = "lag"))/7, by = "alpha3"]
   
   p1 <- ggplot(pwt[subRegion_new == "Latin America and the Caribbean"], aes(x = year, y = gini_disp, by = alpha3, color = subRegion_new)) + 
     geom_line()

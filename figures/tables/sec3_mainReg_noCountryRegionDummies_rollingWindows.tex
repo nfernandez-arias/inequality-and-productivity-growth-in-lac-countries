@@ -1,4 +1,4 @@
-\begin{sidewaystable}[htbp]\centering
+\begin{table}[htbp]\centering
 \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
 \caption{Growth dynamics worldwide}
 \begin{tabular}{l*{3}{c}}
@@ -6,16 +6,16 @@
                 &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
                 &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
 \hline
-Gini (disp.     &   -0.058\sym{***}&    0.027         &   -0.031         \\
-inc.)           &  (0.012)         &  (0.021)         &  (0.021)         \\
+Gini (disp.     &   -0.062\sym{***}&    0.031         &   -0.031         \\
+inc.)           &  (0.012)         &  (0.021)         &  (0.020)         \\
 [1em]
-Per capita      &    -0.19         &  -0.0048         &    -0.19         \\
-output gap (rel. USA)&   (0.13)         &   (0.21)         &   (0.21)         \\
+Per capita      &    -0.29\sym{**} &  -0.0067         &    -0.30         \\
+output gap (rel. USA)&   (0.14)         &   (0.22)         &   (0.21)         \\
 \hline
-Observations    &     2542         &     2542         &     2542         \\
+Observations    &     2234         &     2234         &     2234         \\
 \hline\hline
 \multicolumn{4}{l}{\footnotesize Standard errors in parentheses}\\
 \multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
 \multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
 \end{tabular}
-\end{sidewaystable}
+\end{table}

@@ -16,7 +16,8 @@
   rm(list = ls())
   setwd("/home/nico/Insync/nfernand@princeton.edu/Google Drive/PhD - Thesis/Research/inequality-and-convergence-in-lac")
   
-  ggthemr("flat")
+  ggthemr("flat", spacing = 0.9, layout = "clear")  
+  
   
   pwt <- data.table(read.dta13("data/raw/pwt91.dta"))
   
@@ -111,7 +112,7 @@
   
   rm(list = ls())
   
-  ggthemr("flat")
+  ggthemr("flat", spacing = 0.9, layout = "clear")
   
   pwt <- fread("data/pwt91_cleaned.csv")
   
@@ -224,8 +225,8 @@
   pwt[ , gini_mkt_chg1 := gini_mkt - shift(gini_mkt), by = country]
   pwt[ , lcgdpoPerCapita_gap_chg1 := 100 * (lcgdpoPerCapita_gap - shift(lcgdpoPerCapita_gap)), by = country]
   
-  pwt[ , gini_disp_avg7 := Reduce(`+`,shift(gini_disp,n= 0L:6L,type = "lag"))/7, by = "countrycode"]
-  pwt[ , gini_mkt_avg7 := Reduce(`+`,shift(gini_mkt,n= 0L:6L,type = "lag"))/7, by = "countrycode"]
+  pwt[ , gini_disp_avg7 := Reduce(`+`,shift(gini_disp,n= 0L:6L,type = "lag"))/7, by = "alpha3"]
+  pwt[ , gini_mkt_avg7 := Reduce(`+`,shift(gini_mkt,n= 0L:6L,type = "lag"))/7, by = "alpha3"]
   
   p1 <- ggplot(pwt[subRegion_new == "Latin America and the Caribbean"], aes(x = year, y = gini_disp, by = alpha3, color = subRegion_new)) + 
     geom_line()
@@ -243,8 +244,7 @@
   
   pwt[ !is.na(gini_mkt), hasGiniMkt := 1]
   pwt[ is.na(gini_mkt), hasGiniMkt := 0]
-  
-  
+
   
   fwrite(pwt,"data/pwt91_cleaned_swiid.csv")
   
@@ -426,7 +426,7 @@
     theme(legend.position = "bottom")
     
   
-  ggsave("figures/rgdpnaGrowth_LAC_countryCases.pdf", plot = last_plot(), width = 9, height = 6.5, units = "in")
+  ggsave("figures/rgdpnaGrowth_LAC_countryCases.pdf", plot = last_plot(), width = 12, height = 9, units = "in")
   
   
     ##### Construct cumulative growth variables
@@ -469,6 +469,8 @@
     ylab("Factors") + 
     xlab("Productivity") + 
     labs(color = "Legend") +
+    xlim(-2.5,2.5) + 
+    ylim(-1,5) + 
     coord_fixed() +
     theme(legend.position = "bottom") 
     ##theme_bw()
@@ -495,6 +497,8 @@
     ylab("Factors") + 
     xlab("Productivity") + 
     labs(color = "Legend") +
+    xlim(-2.5,2.5) + 
+    ylim(-1,5) + 
     coord_fixed() +
     theme(legend.position = "bottom") 
   ##theme_bw()
@@ -1582,7 +1586,7 @@ setkey(dummies,alpha3)
 dummies <- dummiesCopy[dummies]
 
 
-ggthemr("flat")
+ggthemr("flat", spacing = 0.9, layout = "clear")
 
 ggplot( dummies, aes(x = reorder(alpha3, Total))) + 
   geom_bar(stat = "identity", aes(y = value, fill = variable)) +
