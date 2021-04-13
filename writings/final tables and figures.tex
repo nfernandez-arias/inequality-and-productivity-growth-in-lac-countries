@@ -1,0 +1,200 @@
+\documentclass[12pt,english]{article}
+\usepackage{lmodern}
+\linespread{1.05}
+%\usepackage{mathpazo}
+%\usepackage{mathptmx}
+%\usepackage{utopia}
+\usepackage{microtype}
+\usepackage{placeins}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+%\usepackage[table]{xcolor}
+\usepackage{colortbl}
+\usepackage{geometry}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{svg}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{blindtext}
+%\renewcommand{\arraystretch}{1.2}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{threeparttable}
+% TikZ stuff
+
+\usepackage{tikz}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{cancel}
+\usepackage{color}
+\usepackage{siunitx}
+
+
+\usepackage{array}
+\newcolumntype{x}[1]{>{\raggedleft\arraybackslash\hspace{0pt}}p{#1}}
+
+\usepackage{amssymb}
+%\usepackage{textcomp}
+\usepackage{gensymb}
+\usepackage{tabularx}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{shadows.blur}
+
+\usepackage{rotating}
+
+%\usepackage{caption}
+%\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\usepackage{courier}
+\usepackage{verbatim}
+\usepackage[round]{natbib}
+\bibliographystyle{plainnat}
+
+\definecolor{red1}{RGB}{128,0,0}
+%\geometry{verbose,tmargin=1.25in,bmargin=1.25in,lmargin=1.25in,rmargin=1.25in}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{setspace}
+
+\usepackage[colorlinks=true, linkcolor={red!70!black}, citecolor={blue!50!black}, urlcolor={blue!80!black}]{hyperref}
+%\usepackage{esint}
+\onehalfspacing
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+\begin{document}
+
+\title{Final figures and tables}
+%\author{Nicolas Fernandez-Arias}
+\maketitle
+
+
+
+\section{Introduction}
+
+To make modifications, do the following:
+
+\begin{itemize}
+	\item Tables: modify the .tex file directly.
+	\item Figures: modify / run the following R scripts (the relevant figures are labeled in each script - just do Ctrl + F "Figure <\# of figure>"):
+	\begin{itemize}
+		\item {\tt main\_adjacentWindows.R} (for Figures 1-7)
+		\item {\tt adjustedGrowthGaps\_rollingWindows.R} (for Figure 8) 
+		\item {\tt adjustedGrowthGaps\_individualCountries\_rollingWindows.R} (for Figures 9-13)
+		\item {\tt adjustedGrowthGaps\_Gini\_individualCountries\_rollingWindows.R} (for Figure 14)
+	\end{itemize}
+\end{itemize}
+
+
+
+\section{Tables}
+
+\input{"../figures/finalFiguresAndTables/Table1.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table2.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table3.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table4.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table5.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table6.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table7.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table8.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table9.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table10.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table11.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table12.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table13.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table14.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table15.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table16.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table17.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table18.tex"}
+
+\input{"../figures/finalFiguresAndTables/Table19.tex"}
+
+\pagebreak
+
+\section{Figures}
+
+(starting on next page)
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure1.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure2.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure3.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure4.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure5.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure6.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure7.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 0.75]{../figures/finalFiguresAndTables/Figure8.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 0.75]{../figures/finalFiguresAndTables/Figure9.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 0.75]{../figures/finalFiguresAndTables/Figure10.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 0.75]{../figures/finalFiguresAndTables/Figure11.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure12.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 1]{../figures/finalFiguresAndTables/Figure13.pdf}
+\end{sidewaysfigure}
+
+\begin{sidewaysfigure}
+	\includegraphics[scale = 0.75]{../figures/finalFiguresAndTables/Figure14.pdf}
+\end{sidewaysfigure}
+
+
+\end{document}
+
+

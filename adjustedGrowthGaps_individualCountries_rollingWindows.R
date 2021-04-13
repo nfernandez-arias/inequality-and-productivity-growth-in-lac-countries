@@ -275,8 +275,12 @@ for (metric in c("lrtfpna_chg7","lrgdpnaPerCapita_chg7_nonTFP","lrgdpnaPerCapita
 }
 
 
+########
+#### Figure 10
+########
+
 ggplot(LACvsNonLAC_lrtfpna_chg7, aes(x = year-3)) + 
-  geom_line( aes(y = gap, linetype = "gap")) + 
+  #geom_line( aes(y = gap, linetype = "gap")) + 
   geom_line( aes(y = gap_adjusted, linetype = "gap_adjusted")) + 
   #geom_line( aes(y = gap_adjustedRobust, linetype = "gap_adjustedRobust")) + 
   #geom_line( aes(y = gap_adjustedCountryDummies, linetype = "gap_adjustedCountryDummies")) + 
@@ -285,13 +289,18 @@ ggplot(LACvsNonLAC_lrtfpna_chg7, aes(x = year-3)) +
        subtitle = "LAC countries, productivity") + 
   ylab("Annual growth rate (%)") + 
   xlab("Year") + 
-  scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)","Adjusted (country dummies regression)")) + 
+  #scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)","Adjusted (country dummies regression)")) +
+  scale_linetype_discrete(name = "", labels = c("Adjusted growth gap")) +
   theme(legend.position = "bottom") + 
-  ggsave("figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf", width = 12, height = 9, units = "in")
+  ggsave("figures/tfpRegs_cgdpGap_annual_countryResiduals.pdf", width = 12, height = 9, units = "in") + 
+  ggsave("figures/finalFiguresAndTables/Figure10.pdf", width = 12, height = 9, units = "in")
 
+########
+#### Figure 11
+########
 
 ggplot(LACvsNonLAC_lrgdpnaPerCapita_chg7_nonTFP, aes(x = year-3)) + 
-  geom_line( aes(y = gap, linetype = "gap")) + 
+  #geom_line( aes(y = gap, linetype = "gap")) + 
   geom_line( aes(y = gap_adjusted, linetype = "gap_adjusted")) + 
   #geom_line( aes(y = gap_adjustedRobust, linetype = "gap_adjustedRobust")) + 
   #geom_line( aes(y = gap_adjustedCountryDummies, linetype = "gap_adjustedCountryDummies")) + 
@@ -300,13 +309,18 @@ ggplot(LACvsNonLAC_lrgdpnaPerCapita_chg7_nonTFP, aes(x = year-3)) +
        subtitle = "LAC countries, factors") + 
   ylab("Annual growth rate (%)") + 
   xlab("Year") + 
-  scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)","Adjusted (country dummies regression)")) + 
+  #scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)","Adjusted (country dummies regression)")) + 
+  scale_linetype_discrete(name = "", labels = c("Adjusted growth gap")) +
   theme(legend.position = "bottom") + 
-  ggsave("figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf", width = 12, height = 9, units = "in")
+  ggsave("figures/nontfpRegs_cgdpGap_annual_countryResiduals.pdf", width = 12, height = 9, units = "in") + 
+  ggsave("figures/finalFiguresAndTables/Figure11.pdf", width = 12, height = 9, units = "in")
 
+########
+#### Figure 9
+########
 
 ggplot(LACvsNonLAC_lrgdpnaPerCapita_chg7, aes(x = year-3)) + 
-  geom_line( aes(y = gap, linetype = "gap")) + 
+  #geom_line( aes(y = gap, linetype = "gap")) + 
   geom_line( aes(y = gap_adjusted, linetype = "gap_adjusted")) + 
   #geom_line( aes(y = gap_adjustedRobust, linetype = "gap_adjustedRobust")) + 
   #geom_line( aes(y = gap_adjustedCountryDummies, linetype = "gap_adjustedCountryDummies")) + 
@@ -315,9 +329,11 @@ ggplot(LACvsNonLAC_lrgdpnaPerCapita_chg7, aes(x = year-3)) +
        subtitle = "LAC countries, output per capita") + 
   ylab("Annual growth rate (%)") + 
   xlab("Year") + 
-  scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)","Adjusted (country dummies regression)")) + 
+  #scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)","Adjusted (country dummies regression)")) + 
+  scale_linetype_discrete(name = "", labels = c("Adjusted growth gap")) +
   theme(legend.position = "bottom") + 
-  ggsave("figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf", width = 12, height = 9, units = "in")
+  ggsave("figures/rgdpnaPerCapitaRegs_cgdpGap_annual_countryResiduals.pdf", width = 12, height = 9, units = "in") +
+  ggsave("figures/finalFiguresAndTables/Figure9.pdf", width = 12, height = 9, units = "in")
 
 
 
@@ -387,6 +403,11 @@ countryGaps_PrePost1990 <- LACvsNonLAC_lrtfpna_chg7[ , mean(na.omit(gap_adjusted
 
 countryGaps_PrePost1990 <- dcast(countryGaps_PrePost1990, countryLAC ~ period, value.var = "V1")
 
+
+########
+#### Figure 13
+########
+
 ggplot(countryGaps_PrePost1990, aes(x = Pre.1990, y = Post.1990)) + 
   #geom_point(size = 5) + 
   geom_text(aes(label = countryLAC), size = 3) + 
@@ -400,18 +421,19 @@ ggplot(countryGaps_PrePost1990, aes(x = Pre.1990, y = Post.1990)) +
   #ylim(-.03, 0.03) + 
   labs(color = "Legend") +
   coord_fixed() + 
-  ggsave("figures/LACCountriesPrePost1990Gaps_LACPrePost1990regression_rollingWindows.pdf",  width = 9, height = 6.5, units = "in")
+  ggsave("figures/lacCountriesPrePost1990Gaps_LACPrePost1990regression_rollingWindows.pdf", width = 9, height = 6.5, units = "in") + 
+  ggsave("figures/finalFiguresAndTables/Figure13.pdf",  width = 9, height = 6.5, units = "in")
 
-
-countryGaps_lrtfpna_chg7 <- LACvsNonLAC_lrtfpna_chg7[ , .(metric = "Productivity", gapAdjusted = mean(na.omit(gap_adjusted))), by = .(countryLAC)]
-countryGaps_lrgdpnaPerCapita_chg7_nonTFP <- LACvsNonLAC_lrgdpnaPerCapita_chg7_nonTFP[ , .(metric = "Factors", gapAdjusted = mean(na.omit(gap_adjusted))), by = .(countryLAC)]
-countryGaps_lrgdpnaPerCapita_chg7 <- LACvsNonLAC_lrgdpnaPerCapita_chg7[ , .(metric = "Total", gapAdjusted = mean(na.omit(gap_adjusted))), by = .(countryLAC)]
+countryGaps_lrtfpna_chg7 <- LACvsNonLAC_lrtfpna_chg7[ , .(metric = "Productivity", gapAdjusted = mean(na.omit(gap_adjusted)), gapAdjustedCountryDummies = mean(na.omit(gap_adjustedCountryDummies))), by = .(countryLAC)]
+countryGaps_lrgdpnaPerCapita_chg7_nonTFP <- LACvsNonLAC_lrgdpnaPerCapita_chg7_nonTFP[ , .(metric = "Factors", gapAdjusted = mean(na.omit(gap_adjusted)), gapAdjustedCountryDummies = mean(na.omit(gap_adjustedCountryDummies))), by = .(countryLAC)]
+countryGaps_lrgdpnaPerCapita_chg7 <- LACvsNonLAC_lrgdpnaPerCapita_chg7[ , .(metric = "Total", gapAdjusted = mean(na.omit(gap_adjusted)), gapAdjustedCountryDummies = mean(na.omit(gap_adjustedCountryDummies))), by = .(countryLAC)]
 
 countryGaps <- rbind(countryGaps_lrtfpna_chg7, countryGaps_lrgdpnaPerCapita_chg7_nonTFP)
 
 setkey(countryGaps,countryLAC)
 
 setnames(countryGaps_lrgdpnaPerCapita_chg7,"gapAdjusted","Total")
+setnames(countryGaps_lrgdpnaPerCapita_chg7,"gapAdjustedCountryDummies","Total_gapAdjusted_countryDummies")
 countryGaps_lrgdpnaPerCapita_chg7[ , metric := NULL]
 
 setkey(countryGaps_lrgdpnaPerCapita_chg7)
@@ -421,21 +443,26 @@ countryGaps <- countryGaps_lrgdpnaPerCapita_chg7[countryGaps]
 countryGaps[ , metric := factor(metric, levels = c("Productivity","Factors"))]
 
 
-ggplot( countryGaps, aes(x = reorder(countryLAC, Total))) + 
-  geom_bar(stat = "identity", aes(y = gapAdjusted, fill = metric)) +
-  geom_col(position = position_stack(reverse = FALSE), aes(y = gapAdjusted, fill = metric)) + 
+########
+#### Figure 12
+########
+
+ggplot( countryGaps, aes(x = reorder(countryLAC, Total_gapAdjusted_countryDummies))) + 
+  geom_bar(stat = "identity", aes(y = gapAdjustedCountryDummies, fill = metric)) +
+  geom_col(position = position_stack(reverse = FALSE), aes(y = gapAdjustedCountryDummies, fill = metric)) + 
   #geom_line(aes(x = alpha3, y = Total, group = 1), size = 4, linetype = "dashed", color = "Black") + 
-  geom_point(aes(x = countryLAC, y = Total, shape = "Total"), size = 2, color = "black")  +
+  geom_point(aes(x = countryLAC, y = Total_gapAdjusted_countryDummies, shape = "Total"), size = 2, color = "black")  +
   xlab("\nCountry") + 
   ylab("Average shortfall\n") +  
-  labs(title = "Decomposition of country per capita output growth shortfalls")+
-  labs(subtitle = "Annualized, %") + 
+  labs(title = "Decomposition of country per capita output growth shortfalls in LAC countries")+
+  labs(subtitle = "1962-2017, annualized, %, computed based on country fixed effects from regression analysis.") + 
   scale_fill_discrete(name = "", labels = c("Productivity","Factors")) +
   scale_shape_discrete(name = "", labels = "Total") +
   #scale_linetype_discrete( name = "", labels = "Sum") + 
   coord_flip() +
   #scale_y_reverse() +
   theme(legend.position = "bottom") + 
-  ggsave("figures/lacCountriesGaps_LACDummyregression_rollingWindows.pdf",plot = last_plot(), width = 9, height = 6.5, units = "in")
+  ggsave("figures/lacCountriesGaps_LACDummyregression_rollingWindows.pdf",plot = last_plot(), width = 9, height = 6.5, units = "in") + 
+  ggsave("figures/finalFiguresAndTables/Figure12.pdf",plot = last_plot(), width = 9, height = 6.5, units = "in")
 
 

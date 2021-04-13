@@ -1,0 +1,45 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Growth dynamics worldwide}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita      &     0.26\sym{***}&   -0.054         &     0.20\sym{*}  \\
+output gap (rel. USA)&  (0.079)         &   (0.12)         &   (0.12)         \\
+\addlinespace
+year=1968       &     1.36\sym{***}&   -0.046         &     1.32\sym{***}\\
+                &   (0.33)         &   (0.26)         &   (0.37)         \\
+\addlinespace
+year=1975       &     0.65\sym{**} &     0.87\sym{***}&     1.53\sym{***}\\
+                &   (0.31)         &   (0.31)         &   (0.37)         \\
+\addlinespace
+year=1982       &    -0.47         &     0.92\sym{***}&     0.45         \\
+                &   (0.33)         &   (0.31)         &   (0.40)         \\
+\addlinespace
+year=1989       &    0.022         &    -0.31         &    -0.29         \\
+                &   (0.28)         &   (0.29)         &   (0.37)         \\
+\addlinespace
+year=1996       &     0.44\sym{*}  &    -0.23         &     0.21         \\
+                &   (0.26)         &   (0.25)         &   (0.29)         \\
+\addlinespace
+year=2003       &     0.30         &    -0.11         &     0.19         \\
+                &   (0.35)         &   (0.24)         &   (0.30)         \\
+\addlinespace
+year=2010       &     0.42         &     0.28         &     0.70\sym{**} \\
+                &   (0.27)         &   (0.21)         &   (0.27)         \\
+\addlinespace
+year=2017       &        0         &        0         &        0         \\
+                &      (.)         &      (.)         &      (.)         \\
+\addlinespace
+Constant        &     0.34         &     1.69\sym{***}&     2.03\sym{***}\\
+                &   (0.23)         &   (0.23)         &   (0.27)         \\
+\midrule
+Observations    &      568         &      568         &      568         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses. Clustering is at country level.}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

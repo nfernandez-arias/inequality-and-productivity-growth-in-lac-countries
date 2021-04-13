@@ -1,0 +1,35 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC individual country growth gaps (Non-LAC Benchmark)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Per capita output gap &     0.23\sym{***}&   -0.055         &     0.17         \\
+(relative to USA) & & & \\
+ARG             &    -0.63\sym{***}&    -0.62\sym{***}&    -1.25\sym{***}\\
+BOL             &    -0.84\sym{***}&    -0.50\sym{*}  &    -1.34\sym{***}\\
+BRA             &    -0.28\sym{**} &     0.22         &   -0.059         \\
+BRB             &    -0.43\sym{***}&    -0.35\sym{**} &    -0.79\sym{***}\\
+CHL             &    -0.63\sym{***}&     0.69\sym{***}&    0.061         \\
+COL             &    -0.31\sym{***}&     0.15         &    -0.17         \\
+CRI             &    -0.25\sym{**} &    0.078         &    -0.17         \\
+DOM             &    -0.15         &     0.87\sym{***}&     0.72\sym{***}\\
+ECU             &    -0.18         &    -0.49\sym{***}&    -0.67\sym{***}\\
+GTM             &    -0.33\sym{**} &    -0.57\sym{***}&    -0.91\sym{***}\\
+JAM             &    -0.58\sym{***}&    -1.46\sym{***}&    -2.04\sym{***}\\
+MEX             &    -1.30\sym{***}&     0.41\sym{***}&    -0.89\sym{***}\\
+PER             &    -0.90\sym{***}&    -0.12         &    -1.01\sym{***}\\
+TTO             &    -0.96\sym{***}&     0.71\sym{***}&    -0.25         \\
+URY             &    -0.10         &    -0.39\sym{**} &    -0.49\sym{**} \\
+VEN             &    -1.97\sym{***}&   -0.083         &    -2.05\sym{***}\\
+\midrule
+Observations    &     3550         &     3550         &     3550         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors omitted for clarity. Clustering is at country level.}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha  + \omega_i + \gamma_t + \beta \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize Estimated values of \(\omega_i\) for each country \(i\) shown above.}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.13)  27 DEC 2020 14:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.13)  30 JAN 2021 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1269,32 +1269,6 @@ File: ../figures/LAC_Country_Dummmies_Decomposition.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../figures/LAC_Country_Dummmies_Decomposition.pdf  use
 d on input line 117.
 (pdftex.def)             Requested size: 650.4284pt x 469.75386pt.
-<../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf, id=40
-, 867.24pt x 650.43pt>
-File: ../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf G
-raphic file (type pdf)
-<use ../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf>
-Package pdftex.def Info: ../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_cou
-ntryResiduals.pdf  used on input line 122.
-(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf, id
-=41, 867.24pt x 650.43pt>
-File: ../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pd
-f Graphic file (type pdf)
-<use ../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.pdf
->
-Package pdftex.def Info: ../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_
-countryResiduals.pdf  used on input line 127.
-(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
-<../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryResidual
-s.pdf, id=42, 867.24pt x 650.43pt>
-File: ../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryRes
-iduals.pdf Graphic file (type pdf)
-<use ../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_countryResi
-duals.pdf>
-Package pdftex.def Info: ../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMk
-t_annual_countryResiduals.pdf  used on input line 132.
-(pdftex.def)             Requested size: 650.42842pt x 487.8213pt.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <../figures/rgdpGrowth_
@@ -1304,33 +1278,30 @@ rplot.pdf>] [6 <../figures/cumulativeGrowthDecomposition_LAC_barplot_post1990.p
 df>] [7 <../figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf>] [8 <../figure
 s/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot_post1990.pdf>] [9 <../figures/lacCoun
 triesPrePost1990Gaps.pdf>] [10 <../figures/LAC_Country_Dummmies_Decomposition.p
-df>] [11 <../figures/tfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResiduals.p
-df>] [12 <../figures/nontfpRegs_cgdpGap_giniDisp_giniMkt_annual_countryResidual
-s.pdf>] [13 <../figures/rgdpnaPerCapitaRegs_cgdpGap_giniDisp_giniMkt_annual_cou
-ntryResiduals.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+df>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
  (./figures.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `figures.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 26064 strings out of 481239
- 511913 string characters out of 5920377
- 806743 words of memory out of 5000000
- 40678 multiletter control sequences out of 15000+600000
+ 26037 strings out of 481239
+ 510359 string characters out of 5920377
+ 804731 words of memory out of 5000000
+ 40660 multiletter control sequences out of 15000+600000
  588163 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,9n,81p,412b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,9n,81p,440b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on figures.pdf (13 pages, 147688 bytes).
+Output written on figures.pdf (10 pages, 111150 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 23209 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 23194 words of extra memory for PDF output out of 24883 (max. 10000000)
 

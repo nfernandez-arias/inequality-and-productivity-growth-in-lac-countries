@@ -356,7 +356,7 @@ ggplot(LACvsNonLAC_lrtfpna_chg7[variable %in% c("adjustmentGinisOutputGap","adju
   xlab("Year") + 
   scale_color_discrete(name = "", labels = c("Output per capita gap","Gini (disp.)","Gini (mkt.)")) + 
   theme(legend.position = "bottom") + 
-  ggsave("figures/nontfpRegs_countryGaps_giniAdjustments.pdf", width = 12, height = 9, units = "in")
+  ggsave("figures/tfpRegs_countryGaps_giniAdjustments.pdf", width = 12, height = 9, units = "in")
 
 ggplot(LACvsNonLAC_lrgdpnaPerCapita_chg7_nonTFP[variable %in% c("adjustmentGinisOutputGap","adjustmentGinisGiniDisp","adjustmentGinisGiniMkt")], aes(x = year-3, y = -value, color = variable)) + 
   geom_line() + 
@@ -369,7 +369,7 @@ ggplot(LACvsNonLAC_lrgdpnaPerCapita_chg7_nonTFP[variable %in% c("adjustmentGinis
   xlab("Year") + 
   scale_color_discrete(name = "", labels = c("Output per capita","Gini (disp.)","Gini (mkt.)")) + 
   theme(legend.position = "bottom") + 
-  ggsave("figures/tfpRegs_countryGaps_giniAdjustments.pdf", width = 12, height = 9, units = "in")
+  ggsave("figures/nontfpRegs_countryGaps_giniAdjustments.pdf", width = 12, height = 9, units = "in")
 
 
 

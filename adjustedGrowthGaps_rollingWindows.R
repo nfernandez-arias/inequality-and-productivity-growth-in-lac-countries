@@ -202,19 +202,43 @@ LACvsNonLAC <- rbind(LACvsNonLAC_lrtfpna_chg7,LACvsNonLAC_lrgdpnaPerCapita_chg7_
 
 LACvsNonLAC[ , metric := factor(metric, levels = c("Output per capita","Productivity","Factors"))]
 
+
+##########
+### Figure 8
+#########
+
 ggplot(LACvsNonLAC, aes(x = year-3)) + 
-  geom_line( aes(y = gap, linetype = "gap")) + 
+  #geom_line( aes(y = gap, linetype = "gap")) + 
   geom_line( aes(y = gap_adjusted, linetype = "gap_adjusted")) + 
-  geom_line( aes(y = gap_adjustedRobust, linetype = "gap_adjustedRobust")) + 
+  #geom_line( aes(y = gap_adjustedRobust, linetype = "gap_adjustedRobust")) + 
   ylab("Annual growth rate (%)") +
   xlab("Year") + 
-  labs(title = "LAC vs non-LAC growth gaps, raw and adjusted for stage of development (baseline and robust)") + 
-  scale_linetype_discrete(name = "", labels = c("Raw","Adjusted","Adjusted (robust)")) + 
+  labs(title = "LAC vs non-LAC growth gaps, adjusted for stage of development") + 
+  scale_linetype_discrete(name = "", labels = c("Adjusted growth gap")) + 
   theme(legend.position = "bottom") + 
   facet_wrap(~metric, nrow = 3) +
   #theme_minimal() + 
-  ggsave("figures/LAC_nonLAC_gaps_plots.pdf", width = 12, height = 9, units = "in")
-  
+  ggsave("figures/LAC_nonLAC_gaps_plot.pdf", width = 12, height = 9, units = "in") +
+  ggsave("figures/finalFiguresAndTables/Figure8.pdf", width = 12, height = 9, units = "in")
+
+
+##########
+### Figure 8 (alt.)
+#########
+
+ggplot(LACvsNonLAC, aes(x = year-3)) + 
+  geom_line( aes(y = gap, linetype = "gap")) + 
+  geom_line( aes(y = gap_adjusted, linetype = "gap_adjusted")) + 
+  #geom_line( aes(y = gap_adjustedRobust, linetype = "gap_adjustedRobust")) + 
+  ylab("Annual growth rate (%)") +
+  xlab("Year") + 
+  labs(title = "LAC vs non-LAC growth gaps, adjusted for stage of development") + 
+  scale_linetype_discrete(name = "", labels = c("Raw growth gap","Adjusted growth gap")) + 
+  theme(legend.position = "bottom") + 
+  facet_wrap(~metric, nrow = 3) +
+  #theme_minimal() + 
+  ggsave("figures/LAC_nonLAC_gaps_plot_alt.pdf", width = 12, height = 9, units = "in") +
+  ggsave("figures/finalFiguresAndTables/Figure8_alt.pdf", width = 12, height = 9, units = "in")
 
 
 

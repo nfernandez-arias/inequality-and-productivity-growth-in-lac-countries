@@ -1,0 +1,27 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC growth gap, pre- and post-1990 (Non-LAC Benchmark)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Gini coefficient     &   -0.055\sym{***}&    0.053         &  -0.0020         \\
+           &  (0.013)         &  (0.036)         &  (0.033)         \\
+\addlinespace
+Per capita      &    -0.26\sym{*}  &    0.082         &    -0.18         \\
+output gap (rel. USA)&   (0.13)         &   (0.25)         &   (0.22)         \\
+\addlinespace
+LAC $\times$ pre&    -0.78\sym{**} &    -1.04\sym{*}  &    -1.82\sym{***}\\
+1990            &   (0.37)         &   (0.57)         &   (0.63)         \\
+\addlinespace
+LAC $\times$    &     0.21         &    -0.29         &   -0.087         \\
+post 1990       &   (0.24)         &   (0.44)         &   (0.50)         \\
+\midrule
+Observations    &     2234         &     2234         &     2234         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses. Clustering is at country level.}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \scriptsize \(g_{it} = \alpha + \sigma_1 \mathbf{1}_{\textrm{LAC,pre1990}} + \sigma_2 \mathbf{1}_{\textrm{LAC,post1990}} + \gamma_t + \beta_1 \text{Gini}_{it} + \beta_2 \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

@@ -14,6 +14,8 @@
   
   
   rm(list = ls())
+  
+  ## Set working directory -- you will need to update this with your own directory.
   setwd("/home/nico/Insync/nfernand@princeton.edu/Google Drive/PhD - Thesis/Research/inequality-and-convergence-in-lac")
   
   ggthemr("flat")
@@ -334,6 +336,10 @@
   
   LAC_onlyCarib_growth_mean <- pwt[alpha3 == "DOM" | alpha3 == "TTO" | alpha3 == "BRB" | alpha3 == "JAM"][ , .(alpha3,country,year,lrgdpnaPerCapita_chg7_temp,lrgdpnaPerCapita_chg1)][ year >= 1962][ , lapply(.SD[ , .(lrgdpnaPerCapita_chg7_temp,lrgdpnaPerCapita_chg1)],mean), by = .(year)]
   
+  ###### 
+  # Figure 1
+  #######
+  
   ggplot(LAC_growth_mean, aes(year)) + 
     geom_line(aes(y = lrgdpnaPerCapita_chg1, linetype  = "lrgdpnaPerCapita_chg1")) + 
     geom_line(aes(y = lrgdpnaPerCapita_chg7_temp, linetype = "lrgdpnaPerCapita_chg7_temp")) + 
@@ -342,13 +348,17 @@
     labs(subtitle = "Mean country, %") +
     xlab("Year") + 
     ylab("Per capita output growth") + 
-    scale_x_continuous(breaks = round(seq(min(LAC_growth_mean$year), max(LAC_growth_mean$year), by = 7),1)) +
+    scale_x_continuous(breaks = round(c(seq(min(LAC_growth_mean$year), max(LAC_growth_mean$year), by = 7),2017),1)) +
     scale_linetype_discrete( name = "Legend", labels = c("Annual","7-year average")) + 
     #labs(color = "Legend") +
     theme(legend.position = "bottom")
     ##theme_bw()
   
   ggsave("figures/rgdpGrowth_LACmean.pdf",plot = last_plot(), width = 9, height = 6.5, units = "in")
+  
+  ###### 
+  # Figure 2
+  #######
   
   ggplot(LAC_growth_median, aes(year)) + 
     geom_line(aes(y = lrgdpnaPerCapita_chg1, linetype  = "lrgdpnaPerCapita_chg1")) + 
@@ -358,13 +368,19 @@
     labs(subtitle = "Median country, %") +
     xlab("Year") + 
     ylab("Per capita output growth") + 
-    scale_x_continuous(breaks = round(seq(min(LAC_growth_mean$year), max(LAC_growth_mean$year), by = 7),1)) +
+    scale_x_continuous(breaks = round(c(seq(min(LAC_growth_mean$year), max(LAC_growth_mean$year), by = 7),2017),1)) +
     scale_linetype_discrete( name = "Legend", labels = c("Annual","7-year average")) + 
     #labs(color = "Legend") +
     theme(legend.position = "bottom")
   ##theme_bw()
   
   ggsave("figures/rgdpGrowth_LACmedian.pdf",plot = last_plot(), width = 9, height = 6.5, units = "in")
+  
+  
+  #####
+  # Not in paper
+  #####
+  
   
   ggplot(LAC_growth_q1, aes(year)) + 
     geom_line(aes(y = lrgdpnaPerCapita_chg1, color = "lrgdpnaPerCapita_chg1")) + 
@@ -405,6 +421,10 @@
   
   #### Plot 1, part 2: compare individual country cases to LAC average
   
+  ##########
+  #### Figure 3
+  ##########
+  
   ggplot(pwt[subRegion_new == "Latin America and the Caribbean"],aes(year)) +
     geom_line(aes(y = lrgdpnaPerCapita_chg7_temp, linetype  = "lrgdpnaPerCapita_chg7_temp")) + 
     geom_line(aes(y = lrgdpnaPerCapita_chg7_subRegionMean, linetype  = "lrgdpnaPerCapita_chg7_subRegionMean")) +
@@ -412,7 +432,7 @@
     labs(subtitle = "Individual countries, %") +
     xlab("Year") +
     ylab("Per capita output growth") +
-    scale_x_continuous(breaks = round(seq(min(LAC_growth_mean$year), max(LAC_growth_mean$year), by = 14),1)) +
+    scale_x_continuous(breaks = round(c(seq(min(LAC_growth_mean$year), max(LAC_growth_mean$year), by = 14),2017),1)) +
     scale_linetype_discrete( name = "Legend", labels = c("LAC (mean)","Country")) + 
     facet_wrap(~ alpha3, ncol = 4) +
     theme(legend.position = "bottom")
@@ -438,12 +458,18 @@
   
   ### Make scatter plot version of Table 1 for whole world not just LAC
   
+  
+  ##### 
+  ## Figure 6
+  #####
+  
+  
   ggplot(last_obs, aes(x = cumulativeTFP, y = cumulativeNonTFP, color = subRegion_new)) + 
     #geom_point(size = 0, shape = 1) + 
     geom_text(aes(label = alpha3), size = 2) + 
     labs(title = "Decomposition of per capita output growth worldwide ") + 
     labs(subtitle = "1962-2017, annualized, %") +
-    labs( x= "Average RTFPNA growth", y = "Average non-RTFPNA RGDPNA / capita growth", color = "Legend") + 
+    labs( x= "Average productivity growth", y = "Average factor accumulation", color = "Legend") + 
     geom_abline(slope = 1, linetype = 2, size = 0.4) + 
     geom_abline(slope = -1, intercept = -1, size = 0.4, linetype = 3) + 
     geom_abline(slope = -1, intercept = 0, size = 0.4, linetype = 3) + 
@@ -463,6 +489,10 @@
     ##theme_bw()
   
   ggsave("figures/rgdpnaPerCapita_TFPvsNonTFP_scatterPlot.pdf", plot = last_plot(),  width = 9, height = 7, units = "in")
+  
+  ##### 
+  ## Figure 7
+  #####
   
   ggplot(last_obs, aes(x = cumulativeTFP1990, y = cumulativeNonTFP1990, color = subRegion_new)) + 
     #geom_point(size = 0, shape = 1) + 
@@ -509,6 +539,11 @@
   
   cumulativeGrowthLAC <- cumulativeGrowthLAC_copy[cumulativeGrowthLAC]
   
+  ##########
+  #### Figure 4
+  ##########
+  
+  
   ggplot( cumulativeGrowthLAC[variable %in% c("cumulativeTFP","cumulativeNonTFP")], aes(x = reorder(alpha3, Total))) + 
     geom_bar(stat = "identity", aes(y = value, fill = variable)) +
     geom_col(position = position_stack(reverse = TRUE), aes(y = value, fill = variable)) + 
@@ -524,6 +559,10 @@
     #theme_bw()
   
   ggsave("figures/cumulativeGrowthDecomposition_LAC_barplot.pdf",plot = last_plot(),  width = 9, height = 6.5, units = "in")
+  
+  ##########
+  #### Figure 5
+  ##########
   
   ggplot( cumulativeGrowthLAC[variable %in% c("cumulativeTFP1990","cumulativeNonTFP1990")], aes(x = reorder(alpha3, Total1990))) + 
     geom_bar(stat = "identity", aes(y = value, fill = variable)) +
@@ -1461,6 +1500,9 @@ data <- dcast(data, country ~ post1990, value.var = "V2")
 setnames(data,"0","Pre1990")
 setnames(data,"1","Post1990")
 
+#######
+## Figure 8
+######
   
 ggplot(data, aes(x = Pre1990, y = Post1990)) + 
   #geom_point(size = 5) + 
@@ -1567,6 +1609,10 @@ dummies <- dummiesCopy[dummies]
 
 
 ggthemr("flat")
+
+#######
+### Figure 10
+#######
 
 ggplot( dummies, aes(x = reorder(alpha3, Total))) + 
   geom_bar(stat = "identity", aes(y = value, fill = variable)) +

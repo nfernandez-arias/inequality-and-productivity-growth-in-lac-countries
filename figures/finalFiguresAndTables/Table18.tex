@@ -1,0 +1,24 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Statistical significance of LAC growth gap (Non-LAC Benchmark)}
+\begin{tabular}{l*{3}{c}}
+\toprule
+                &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                &\multicolumn{1}{c}{Productivity growth}&\multicolumn{1}{c}{Factor accumulation}&\multicolumn{1}{c}{Per capita output growth}\\
+\midrule
+Gini coefficient     &   -0.058\sym{***}&    0.050         &  -0.0073         \\
+           &  (0.014)         &  (0.035)         &  (0.033)         \\
+\addlinespace
+Per capita      &    -0.27\sym{**} &    0.071         &    -0.20         \\
+output gap (rel. USA)&   (0.14)         &   (0.25)         &   (0.23)         \\
+\addlinespace
+LAC             &    -0.12         &    -0.54         &    -0.66         \\
+                &   (0.21)         &   (0.45)         &   (0.48)         \\
+\midrule
+Observations    &     2234         &     2234         &     2234         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize Standard errors in parentheses. Clustering is at country level.}\\
+\multicolumn{4}{l}{\footnotesize \textbf{Regression equation:} \(g_{it} = \alpha + \sigma \mathbf{1}_{\textrm{LAC}} + \gamma_t + \beta_1 \text{Gini}_{it} + \beta_2 \big(\log (\frac{\textrm{cgdpo}_{it}}{\textrm{pop}_{it}} ) - \log (\frac{\textrm{cgdpo}_{USA,t}}{\textrm{pop}_{USA,t}}  ) \big) + \epsilon_{it}\)}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}
